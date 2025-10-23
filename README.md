@@ -1,3 +1,5 @@
-# RockyBot21 - Der drei <span style="color:#E2001A">?</span><span style="color:#009EE0">?</span><span style="color:#FFFFFF">?</span> Bot
+# RockyBot21 - Der drei ![Fragezeichen-Logo](https://sig.rondev.de/logos/dreifragezeichen.svg) Bot
+
+
 
 
