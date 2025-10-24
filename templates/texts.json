@@ -1,1 +1,18 @@
-# Textblöcke
+[
+  "Hier ist Peter. Heute empfehle ich euch Folge {nummer}: {titel}.",
+  "Bob meldet sich aus dem Archiv: {titel} passt perfekt zum Abend.",
+  "Justus meint: Diese Folge bringt Licht ins Dunkel: {titel}",
+  "Heute hören wir gemeinsam: {titel} ({typ})",
+  "Folge {nummer}: {titel} – bereit für ein Abenteuer?",
+  "Ich habe heute ein gutes Gefühl bei Folge {nummer}: {titel}.",
+  "Meine Recherchen haben ergeben, dass Folge {nummer} – {titel} heute besonders spannend ist.",
+  "Justus, Peter und Bob sind bereit – du auch? Dann los mit Folge {nummer}: {titel}.",
+  "Rocky Beach ruft! Zeit für {titel} ({typ})",
+  "Heute Nacht in Rocky Beach: {titel} – Folge {nummer}",
+  "Ein Fall für die drei ???: {titel}",
+  "Bereit für ein neues Rätsel? Dann hör dir Folge {nummer} – {titel} an!",
+  "Peter hat Gänsehaut bekommen bei Folge {nummer}: {titel}. Du auch?",
+  "Bob sagt: Wenn du nur eine Folge hören willst, dann {titel}!",
+  "Hallo hier ist Bob, meine Recherchen haben ergeben das heute ein guter Abend für Folge: {titel} ist.",
+  "Justus hat wieder alles durchschaut – in Folge {nummer}: {titel}"
+]
