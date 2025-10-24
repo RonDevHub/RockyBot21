@@ -1,4 +1,3 @@
-// Hilfsfunktionen (z.B. JSON laden)
 <?php
 namespace DreiBot;
 

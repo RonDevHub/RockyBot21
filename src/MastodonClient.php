@@ -1,4 +1,3 @@
-// API-Anbindung
 <?php
 namespace DreiBot;
 

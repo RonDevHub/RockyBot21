@@ -1,21 +1,24 @@
-// Zufall + Wiederholungsprüfung
 <?php
+
 namespace DreiBot;
 
 require_once __DIR__ . '/Logger.php';
 
-class EpisodeSelector {
+class EpisodeSelector
+{
     private $config;
     private $dataPath;
     private $logFile;
 
-    public function __construct(array $config) {
+    public function __construct(array $config)
+    {
         $this->config = $config;
         $this->dataPath = $config['data_path'];
         $this->logFile = $this->dataPath . 'log.json';
     }
 
-    public function getRandomEpisode(): ?array {
+    public function getRandomEpisode(): ?array
+    {
         $episodes = $this->loadEpisodes();
         $valid = array_filter($episodes, [$this, 'isPlayable']);
 
@@ -42,17 +45,24 @@ class EpisodeSelector {
         return $zufall;
     }
 
-    public function logEpisode(int $id): void {
+    public function logEpisode(int $id): void
+    {
         $log = $this->getLog();
         $log[date('Y-m-d')] = $id;
         file_put_contents($this->logFile, json_encode($log, JSON_PRETTY_PRINT));
     }
 
-    private function loadEpisodes(): array {
-        $files = ['Serie.json', 'Spezial.json', 'Kurzgeschichten.json'];
+    private function loadEpisodes(): array
+    {
+        $map = [
+            'Serie.json' => 'serie',
+            'Spezial.json' => 'spezial',
+            'Kurzgeschichten.json' => 'kurzgeschichten'
+        ];
+
         $all = [];
 
-        foreach ($files as $file) {
+        foreach ($map as $file => $key) {
             $path = $this->dataPath . $file;
             if (!file_exists($path)) {
                 Logger::log("Datei fehlt: $file");
@@ -60,18 +70,21 @@ class EpisodeSelector {
             }
 
             $json = json_decode(file_get_contents($path), true);
-            if (!is_array($json)) {
-                Logger::log("Fehler beim Parsen: $file");
+            if (!is_array($json[$key] ?? null)) {
+                Logger::log("Fehler beim Parsen oder Schlüssel '$key' fehlt in: $file");
                 continue;
             }
 
-            $all = array_merge($all, $json);
+            $all = array_merge($all, $json[$key]);
         }
 
+        Logger::log("Geladene Folgen insgesamt: " . count($all));
         return $all;
     }
 
-    private function isPlayable(array $f): bool {
+
+    private function isPlayable(array $f): bool
+    {
         if (!empty($f['unvollständig'])) return false;
 
         $links = $f['links'] ?? [];
@@ -82,13 +95,15 @@ class EpisodeSelector {
         return $cover || count($hatLink) > 0;
     }
 
-    private function getLog(): array {
+    private function getLog(): array
+    {
         if (!file_exists($this->logFile)) return [];
         $json = json_decode(file_get_contents($this->logFile), true);
         return is_array($json) ? $json : [];
     }
 
-    private function getRecentIds(): array {
+    private function getRecentIds(): array
+    {
         $log = $this->getLog();
         $cutoff = (new \DateTime())->modify("-{$this->config['log_days']} days");
         $ids = [];

@@ -1,4 +1,3 @@
-// Platzhalter ersetzen
 <?php
 namespace DreiBot;
 
@@ -6,8 +5,10 @@ require_once __DIR__ . '/Logger.php';
 
 class TextGenerator {
     private array $texts;
+    private array $config;
 
     public function __construct(array $config) {
+        $this->config = $config;
         $path = $config['templates_path'] . 'texts.json';
         if (!file_exists($path)) {
             Logger::error("Textbaustein-Datei fehlt: texts.json");
@@ -33,15 +34,18 @@ class TextGenerator {
         $template = $this->texts[array_rand($this->texts)];
 
         $platzhalter = [
-            '{titel}' => $folge['titel'] ?? '',
-            '{nummer}' => $folge['nummer'] ?? '',
-            '{typ}' => $folge['typ'] ?? '',
-            '{reihe}' => $folge['reihe'] ?? '',
-            '{sprecher}' => implode(', ', $folge['sprecher'] ?? []),
-            '{autor}' => implode(', ', $folge['autor'] ?? []),
-            '{id}' => $folge['ids']['dreimetadaten'] ?? '',
+            '{titel}'     => $folge['titel'] ?? '',
+            '{nummer}'    => $folge['nummer'] ?? '',
+            '{typ}'       => $folge['typ'] ?? '',
+            '{reihe}'     => $folge['reihe'] ?? '',
+            '{sprecher}'  => is_array($folge['sprecher'] ?? null) ? implode(', ', $folge['sprecher']) : ($folge['sprecher'] ?? ''),
+            '{autor}'     => is_array($folge['autor'] ?? null) ? implode(', ', $folge['autor']) : ($folge['autor'] ?? ''),
+            '{id}'        => $folge['ids']['dreimetadaten'] ?? '',
         ];
 
-        return str_replace(array_keys($platzhalter), array_values($platzhalter), $template);
+        $text = str_replace(array_keys($platzhalter), array_values($platzhalter), $template);
+        $link = $this->config['base_url'] . 'folge' . ($folge['ids']['dreimetadaten'] ?? '');
+
+        return $text . "\n\n🔗 " . $link;
     }
 }

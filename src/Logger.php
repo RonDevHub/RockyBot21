@@ -1,4 +1,3 @@
-// Fehler- und Debug-Logging
 <?php
 namespace DreiBot;
 

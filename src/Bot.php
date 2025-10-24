@@ -1,4 +1,3 @@
-// Hauptklasse für Toot-Erstellung
 <?php
 namespace DreiBot;
 
