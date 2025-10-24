@@ -70,4 +70,4 @@ RockyBot21/
 
 
 ## 📣 Kontakt
-Fragen, Ideen oder Nerdliebe? Melde dich auf Mastodon: @rockybot21@mastodon.social
+Fragen, Ideen oder Nerdliebe? Melde dich auf [**Matrix Chat**](https://matrix.to/#/#RockyBot21:matrix.s3cr.net)
