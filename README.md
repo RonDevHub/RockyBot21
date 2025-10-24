@@ -65,7 +65,7 @@ RockyBot21/
 
 ## 💡 Credits
 - Metadaten: [dreimetadaten.de](https://dreimetadaten.de)
-- Idee & Umsetzung: RonDevHub
+- Idee & Umsetzung: [RonDevHub](https://commitcloud.net/RonDevHub)
 
 
 ## 📣 Kontakt
