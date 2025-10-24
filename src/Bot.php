@@ -37,7 +37,7 @@ class Bot {
                 if ($cover) Logger::log("Cover: $cover");
             } else {
                 $this->mastodon->postToot($text, $cover);
-                Logger::log("Toot gesendet: {$folge['ids']['dreimetadaten']} – {$folge['titel']}");
+                Logger::log("Toot gesendet: {$folge['ids']['dreimetadaten']} - {$folge['titel']}");
                 $this->selector->logEpisode($folge['ids']['dreimetadaten']);
             }
         } catch (\Exception $e) {
