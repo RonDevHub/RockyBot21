@@ -3,7 +3,7 @@
 <html lang="de">
 <head>
   <meta charset="UTF-8">
-  <title>Drei ??? Bot – Projektübersicht</title>
+  <title>Drei ??? Bot - Projektübersicht</title>
   <style>
     body {
       font-family: system-ui, sans-serif;
@@ -37,7 +37,7 @@
 
   <p>
     Willkommen auf der Projektseite des <strong>Drei ??? Bots</strong>!<br>
-    Dieser kleine Bot postet regelmäßig eine zufällige Folge der <em>drei ???</em> auf <strong>Mastodon</strong> – inklusive Cover, Titel, Anbieter-Links und einem passenden Text von Justus, Peter oder Bob.
+    Dieser kleine Bot postet regelmäßig eine zufällige Folge der <em>drei ???</em> auf <strong>Mastodon</strong> - inklusive Cover, Titel, Anbieter-Links und einem passenden Text von Justus, Peter oder Bob.
   </p>
 
   <h2>🔍 Was macht der Bot?</h2>
@@ -55,7 +55,7 @@
 
   <h2>📦 Open Source</h2>
   <p>
-    Der Code ist offen und modular aufgebaut – ideal für eigene Bots oder Projekte rund um Hörspiele. Du findest alles auf GitHub:
+    Der Code ist offen und modular aufgebaut - ideal für eigene Bots oder Projekte rund um Hörspiele. Du findest alles auf GitHub:
     <br>
     <a href="https://github.com/deinname/dreibot" target="_blank">➡️ GitHub: deinname/dreibot</a>
   </p>
