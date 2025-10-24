@@ -61,7 +61,7 @@
   </p>
 
   <div class="footer">
-    <p>Ein Projekt von Ronny – powered by Nerdliebe, PHP und den drei ???</p>
+    <p>Ein Projekt von Ronny - powered by Nerdliebe, PHP und den drei ???</p>
   </div>
 
 </body>
