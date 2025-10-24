@@ -45,7 +45,7 @@ class Utils {
     }
 
     /**
-     * Gibt eine lesbare Datumsdifferenz zurück (z. B. „vor 3 Tagen“).
+     * Gibt eine lesbare Datumsdifferenz zurück (z.B. „vor 3 Tagen“).
      */
     public static function humanDateDiff(string $date): string {
         $d1 = \DateTime::createFromFormat('Y-m-d', $date);
