@@ -1,9 +1,10 @@
-// Projektbeschreibung
 <!DOCTYPE html>
 <html lang="de">
 <head>
   <meta charset="UTF-8">
   <title>Drei ??? Bot - Projektübersicht</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/png" href="/public/favicon.png">
   <style>
     body {
       font-family: system-ui, sans-serif;
@@ -33,11 +34,11 @@
 </head>
 <body>
 
-  <h1>🎙️ Der Drei ??? Bot</h1>
+  <h1>RockyBot21 - Der drei <svg xmlns="http://www.w3.org/2000/svg" height="1.2em" viewBox="0 0 119.24 59.599"><text xml:space="preserve" x="104.119" y="76.886" fill="#2a7fff" fill-opacity=".917" stroke="#000" font-family="'DejaVu Math TeX Gyre'" font-size="81.64" text-anchor="middle" transform="translate(-43.924 -18.384)"><tspan x="104.119" y="76.886" fill-opacity=".918" font-family="'SF Pro Display'" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal"><tspan fill="#e2001a">?</tspan><tspan fill="#009ee0">?</tspan><tspan fill="#fff">?</tspan></tspan></text></svg> Bot</h1>
 
   <p>
     Willkommen auf der Projektseite des <strong>Drei ??? Bots</strong>!<br>
-    Dieser kleine Bot postet regelmäßig eine zufällige Folge der <em>drei ???</em> auf <strong>Mastodon</strong> - inklusive Cover, Titel, Anbieter-Links und einem passenden Text von Justus, Peter oder Bob.
+    Dieser kleine Bot postet regelmäßig eine zufällige Folge der <em>drei ???</em> auf <strong><a rel="me" href="https://mastodon.social/@RockyBot21">Mastodon</a></strong> - inklusive Cover, Titel, Anbieter-Links und einem passenden Text von Justus, Peter oder Bob.
   </p>
 
   <h2>🔍 Was macht der Bot?</h2>
@@ -45,7 +46,7 @@
     <li>Wählt täglich eine zufällige Folge aus allen regulären, Spezial- und Kurzgeschichten</li>
     <li>Vermeidet Wiederholungen (mindestens 100 Tage Abstand)</li>
     <li>Postet einen liebevoll formulierten Toot mit Cover und Streaming-Links</li>
-    <li>Erstellt eine <a href="folge.php?id=123">Zusatzseite mit allen Anbietern</a> zur Folge</li>
+    <li>Erstellt eine <a href="folge123">Zusatzseite mit allen Anbietern</a> zur Folge</li>
   </ul>
 
   <h2>🛠️ Wie funktioniert das?</h2>
@@ -57,7 +58,10 @@
   <p>
     Der Code ist offen und modular aufgebaut - ideal für eigene Bots oder Projekte rund um Hörspiele. Du findest alles auf GitHub:
     <br>
-    <a href="https://github.com/deinname/dreibot" target="_blank">➡️ GitHub: deinname/dreibot</a>
+    <a href="https://commitcloud.net/RonDevHub/RockyBot21" target="_blank">➡️ CodeCommit: RonDevHub/RockyBot21</a><br>
+    <a href="https://codeberg.org/RonDevHub/RockyBot21" target="_blank">➡️ Codeberg: RonDevHub/RockyBot21</a><br>
+    <a href="https://github.com/RonDevHub/RockyBot21" target="_blank">➡️ GitHub: RonDevHub/RockyBot21</a><br>
+    <a href="https://gitlab.com/RonDevHub/RockyBot21" target="_blank">➡️ Gitlab: RonDevHub/RockyBot21</a>
   </p>
 
   <div class="footer">
