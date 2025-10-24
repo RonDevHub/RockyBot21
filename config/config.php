@@ -15,5 +15,5 @@ return [
     'templates_path' => __DIR__ . '/../templates/',
 
     // Cronjob-Schutz
-    'cronjob_secret' => 'DEIN_GEHEIMER_TOKENSTRING', // z. B. zufällig generiert
+    'cronjob_secret' => 'DEIN_GEHEIMER_TOKENSTRING', // z.B. zufällig generiert
 ];
