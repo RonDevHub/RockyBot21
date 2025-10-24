@@ -1,0 +1,16 @@
+RewriteEngine On
+RewriteBase /
+
+# Startseite: / → /public/index.php
+RewriteRule ^$ public/index.php [L]
+
+# Folge-Shortlink: /folge123 → /public/folge.php?id=123
+RewriteRule ^folge([0-9]+)$ public/folge.php?id=$1 [L]
+
+# Optional: /debug → /data/debug.log anzeigen (nur wenn gewünscht)
+RewriteRule ^debug$ data/debug.log [L]
+
+# Sicherheit: .htaccess selbst schützen
+<Files .htaccess>
+  Require all denied
+</Files>
