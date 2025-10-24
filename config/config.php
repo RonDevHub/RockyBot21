@@ -3,6 +3,7 @@ return [
     // Mastodon API
     'mastodon_token' => 'DEIN_MASTODON_TOKEN',
     'mastodon_instance' => 'https://mastodon.social',
+    'base_url' => 'https://deinedomain.de/',
 
     // Testmodus: true = kein echter Toot, nur Log
     'testmode' => true,
