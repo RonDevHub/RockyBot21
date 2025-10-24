@@ -3,6 +3,9 @@ return [
     // Mastodon API
     'mastodon_token' => 'DEIN_MASTODON_TOKEN',
     'mastodon_instance' => 'https://mastodon.social',
+
+    // Bot Einstellungen
+    'botname' => 'RockyBot21',
     'base_url' => 'https://deinedomain.de/',
 
     // Testmodus: true = kein echter Toot, nur Log
