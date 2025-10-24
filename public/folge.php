@@ -36,7 +36,7 @@ if (!$folge) {
 
 // Infos extrahieren
 $titel = htmlspecialchars($folge['titel'] ?? 'Unbekannt');
-$nummer = $folge['nummer'] ?? '–';
+$nummer = $folge['nummer'] ?? '-';
 $typ = $folge['typ'] ?? 'Unbekannt';
 $cover = $folge['links']['cover'] ?? null;
 $links = $folge['links'] ?? [];
