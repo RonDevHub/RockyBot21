@@ -68,6 +68,12 @@ RockyBot21/
 - Idee & Umsetzung:
    - [RonDevHub](https://commitcloud.net/RonDevHub)
 
+---
+
+## Verwendung
+Bei Verwendung genügt als Namensnennung "RockyBot21".
+
+Sämtlicher Quellcode steht unter der [MIT License](https://opensource.org/license/MIT).
 
 ## 📣 Kontakt
-Fragen, Ideen oder Nerdliebe? Melde dich auf [**Matrix Chat**](https://matrix.to/#/#RockyBot21:matrix.s3cr.net), [**Github Issues**](https://github.com/RonDevHub/RockyBot21/issues), <a rel="me" href="https://mastodon.social/@RockyBot21">@RockyBot21</a>
+Fragen, Ideen oder Nerdliebe? Melde dich auf [**Matrix Chat**](https://matrix.to/#/#RockyBot21:matrix.s3cr.net), [**Github Issues**](https://github.com/RonDevHub/RockyBot21/issues), <a rel="me" href="https://mastodon.social/@RockyBot21">@RockyBot21</a> *(kein Support)*
