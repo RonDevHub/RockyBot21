@@ -70,4 +70,4 @@ RockyBot21/
 
 
 ## 📣 Kontakt
-Fragen, Ideen oder Nerdliebe? Melde dich auf [**Matrix Chat**](https://matrix.to/#/#RockyBot21:matrix.s3cr.net), [**Github Issues**](https://github.com/RonDevHub/RockyBot21/issues) <a rel="me" href="https://mastodon.social/@RockyBot21">@RockyBot21</a>
+Fragen, Ideen oder Nerdliebe? Melde dich auf [**Matrix Chat**](https://matrix.to/#/#RockyBot21:matrix.s3cr.net), [**Github Issues**](https://github.com/RonDevHub/RockyBot21/issues), <a rel="me" href="https://mastodon.social/@RockyBot21">@RockyBot21</a>
