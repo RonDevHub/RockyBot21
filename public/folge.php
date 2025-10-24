@@ -188,6 +188,10 @@ $icons = [
         <div class="back">
             <a href="<?php echo htmlspecialchars($config['base_url']); ?>">Zurück zur Startseite</a>
         </div>
+        <div class="footer">
+           <?php echo date("Y"); ?> - <?php echo htmlspecialchars($config['botname']); ?><br>
+           <small><strong>Die drei ??? übernehmen jeden Fall - und <?php echo htmlspecialchars($config['botname']); ?> übernimmt die tägliche Empfehlung.</strong></small>
+        </div>
     </div>
 </body>
 </html>
