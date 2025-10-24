@@ -52,7 +52,7 @@ function linkButton($name, $url) {
 <html lang="de">
 <head>
     <meta charset="UTF-8">
-    <title><?php echo $titel; ?> – Drei ???</title>
+    <title><?php echo $titel; ?> - Drei ???</title>
     <style>
         body { font-family: sans-serif; padding: 2em; background: #f5f5f5; }
         .cover { max-width: 300px; margin-bottom: 1em; }
