@@ -1,0 +1,1 @@
+// Hilfsfunktionen (z. B. JSON laden)
