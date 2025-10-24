@@ -1,5 +1,17 @@
 # RockyBot21 - Der drei ![Fragezeichen-Logo](https://sig.rondev.de/logos/dreifragezeichen.svg) Bot
+<div align="center">
 
+![Created](https://mini-badges.rondevhub.de/forgejo/RonDevHub/RockyBot21/created-at/*/*/de) ![GitHub Repo stars](https://mini-badges.rondevhub.de/forgejo/RonDevHub/RockyBot21/lastcommit/*/*/de) ![GitHub Repo stars](https://mini-badges.rondevhub.de/github/RonDevHub/RockyBot21/stars/*/*/de) ![GitHub Repo stars](https://mini-badges.rondevhub.de/github/RonDevHub/RockyBot21/issues/*/*/de) ![GitHub Repo language](https://mini-badges.rondevhub.de/forgejo/RonDevHub/RockyBot21/language/*/*/de) ![GitHub Repo license](https://mini-badges.rondevhub.de/github/RonDevHub/RockyBot21/license/*/*/de) ![GitHub Repo release](https://mini-badges.rondevhub.de/github/RonDevHub/RockyBot21/release/*/*/de) ![GitHub Repo release](https://mini-badges.rondevhub.de/github/RonDevHub/RockyBot21/forks/*/*/de) ![GitHub Repo downlods](https://mini-badges.rondevhub.de/github/RonDevHub/RockyBot21/downloads/*/*/de) ![GitHub Repo stars](https://mini-badges.rondevhub.de/github/RonDevHub/RockyBot21/watchers)
+
+[![Buy me a coffee](https://mini-badges.rondevhub.de/icon/cuptogo/Buy_me_a_Coffee-c1d82f-222/social "Buy me a coffee")](https://www.buymeacoffee.com/RonDev)
+[![Buy me a coffee](https://mini-badges.rondevhub.de/icon/cuptogo/ko--fi.com-c1d82f-222/social "Buy me a coffee")](https://ko-fi.com/U6U31EV2VS)
+[![Sponsor me](https://mini-badges.rondevhub.de/icon/hearts-red/Sponsor_me/social "Sponsor me")](https://github.com/sponsors/RonDevHub)
+[![Pizza Power](https://mini-badges.rondevhub.de/icon/pizzaslice/Buy_me_a_pizza/social "Pizza Power")](https://www.paypal.com/paypalme/Depressionist1/4,99)
+</div>
+
+---
+> „Die drei ??? übernehmen jeden Fall – und RockyBot21 übernimmt die tägliche Empfehlung.“
+---
 🎙️ Ein liebevoll gebauter Mastodon-Bot, der täglich eine zufällige Folge der drei ??? postet – inklusive Cover, Textbaustein und Streaming-Links.
 
 ---
@@ -58,5 +70,3 @@ RockyBot21/
 
 ## 📣 Kontakt
 Fragen, Ideen oder Nerdliebe? Melde dich auf Mastodon: @rockybot21@mastodon.social
-
-> „Die drei ??? übernehmen jeden Fall – und RockyBot21 übernimmt die tägliche Empfehlung.“
