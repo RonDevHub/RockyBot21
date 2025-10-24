@@ -13,6 +13,25 @@
   "Bereit für ein neues Rätsel? Dann hör dir Folge {nummer} - {titel} an!",
   "Peter hat Gänsehaut bekommen bei Folge {nummer}: {titel}. Du auch?",
   "Bob sagt: Wenn du nur eine Folge hören willst, dann {titel}!",
-  "Hallo hier ist Bob, meine Recherchen haben ergeben das heute ein guter Abend für Folge: {titel} ist.",
-  "Justus hat wieder alles durchschaut - in Folge {nummer}: {titel}"
+  "Hallo hier ist Bob, meine Recherchen haben ergeben, dass heute ein guter Abend für Folge: {titel} ist.",
+  "Justus hat wieder alles durchschaut - in Folge {nummer}: {titel}",
+  "Das Rätsel wartet! Justus ruft zum Einsatz in Folge {nummer}: {titel}.",
+  "Peter: Ich hab da ein ungutes Gefühl... besser wir hören {titel}!",
+  "Bob: Meine Spur führt direkt zu Folge {nummer} – {titel}.",
+  "Justus: Logisch betrachtet ist {titel} ein Muss für jeden Detektiv.",
+  "Peter: Gänsehaut garantiert – Folge {nummer}: {titel}.",
+  "Bob: Zwischen Akten und alten Geheimnissen hab ich {titel} entdeckt!",
+  "Justus: Drei Detektive, ein Rätsel – und die Lösung steckt in {titel}.",
+  "Peter: Da läufts mir kalt den Rücken runter – {titel} ist nichts für schwache Nerven!",
+  "Bob: Ich schwöre, das stand so in der Akte – {titel} ist ein echter Klassiker.",
+  "Justus: Meine Schlussfolgerung? Heute unbedingt hören: {titel}.",
+  "Peter: Ich glaub, da ist was faul in Folge {nummer}: {titel}.",
+  "Bob: Das Archiv spricht Bände – und {titel} ist ganz vorne dabei.",
+  "Justus: Es gibt Rätsel, die nur wir lösen können – wie in {titel}.",
+  "Peter: Achtung, Nervenkitzel! Folge {nummer}: {titel} steht an.",
+  "Bob: Zeit, ein paar alte Spuren zu verfolgen – mit {titel}.",
+  "Justus: Kombiniert, analysiert, gelöst – {titel} hat alles, was ein Fall braucht.",
+  "Peter: Ich hab da was gehört... und das war unheimlich gut – {titel}!",
+  "Bob: Zwischen Wahrheit und Legende – {titel} ist genau mein Fall."
 ]
+
