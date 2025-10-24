@@ -21,7 +21,7 @@
 - Wählt täglich eine zufällige Folge aus allen regulären, Spezial- und Kurzgeschichten
 - Vermeidet Wiederholungen (mindestens 100 Tage Abstand)
 - Postet einen Toot mit Cover, Titel, Anbieter-Links und einem passenden Text von Justus, Peter oder Bob
-- Erstellt eine Zusatzseite mit allen Streaming-Anbietern zur Folge (`folge=123`)
+- Erstellt eine Zusatzseite mit allen Streaming-Anbietern zur Folge (`folge123`)
 
 ---
 
