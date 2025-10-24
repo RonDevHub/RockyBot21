@@ -1,0 +1,3014 @@
+{
+  "dbInfo" : {
+    "version" : "2.8.8",
+    "lastModified" : "2025-10-10T13:30:48Z"
+  },
+  "kurzgeschichten" : [
+    {
+      "titel" : "und die Geisterlampe",
+      "autor" : "Kari Erlhoff, Marco Sonnleitner, Hendrik Buchna",
+      "hörspielskriptautor" : "André Minninger",
+      "gesamtbeschreibung" : "Das gab es noch nie:\n12 Mini-Fälle der drei ???.\nDie drei Autoren Kari Erlhoff, Hendrik Buchna und Marco Sonnleitner erzählen 12 kurze Geschichten, die die drei jungen Detektive aus Rocky Beach teilweise auch mal von ein paar ganz anderen Seiten zeigen.",
+      "beschreibung" : "Das gab es noch nie:\n12 Mini-Fälle der drei ???.\nDie drei Autoren Kari Erlhoff, Hendrik Buchna und Marco Sonnleitner erzählen 12 kurze Geschichten, die die drei jungen Detektive aus Rocky Beach teilweise auch mal von ein paar ganz anderen Seiten zeigen.",
+      "veröffentlichungsdatum" : "2012-09-28",
+      "gesamtdauer" : 10299360,
+      "sprechrollen" : [
+        {
+          "rolle" : "Erzähler",
+          "sprecher" : "Thomas Fritsch"
+        },
+        {
+          "rolle" : "Justus Jonas, Erster Detektiv",
+          "sprecher" : "Oliver Rohrbeck"
+        },
+        {
+          "rolle" : "Peter Shaw, Zweiter Detektiv",
+          "sprecher" : "Jens Wawrczeck"
+        },
+        {
+          "rolle" : "Bob Andrews, Recherchen und Archiv",
+          "sprecher" : "Andreas Fröhlich"
+        },
+        {
+          "rolle" : "Mr. Vancura",
+          "sprecher" : "Lutz Herkenrath"
+        },
+        {
+          "rolle" : "Mrs. Fox",
+          "sprecher" : "Susan Jarling"
+        },
+        {
+          "rolle" : "Inspektor Cotta",
+          "sprecher" : "Holger Mahlich"
+        },
+        {
+          "rolle" : "Mr. Shaw",
+          "sprecher" : "Rasmus Borowski"
+        },
+        {
+          "rolle" : "Shannon",
+          "sprecher" : "Kerstin Draeger"
+        },
+        {
+          "rolle" : "Mr. Mosley",
+          "sprecher" : "Neil Malik Abdullah"
+        },
+        {
+          "rolle" : "Cowboy",
+          "sprecher" : "Achim Schülke"
+        },
+        {
+          "rolle" : "Patricia",
+          "sprecher" : "Rhea Harder-Vennewald"
+        },
+        {
+          "rolle" : "Peter Shawn",
+          "sprecher" : "Leonhard Mahlich"
+        },
+        {
+          "rolle" : "Marty",
+          "sprecher" : "Philipp Draeger"
+        },
+        {
+          "rolle" : "Fred",
+          "sprecher" : "Guido Bernadotte"
+        },
+        {
+          "rolle" : "Mrs. Floyd",
+          "sprecher" : "Gabriele Libbach"
+        },
+        {
+          "rolle" : "Tante Mathilda",
+          "sprecher" : "Karin Lieneweg"
+        },
+        {
+          "rolle" : "Vincent Grimes",
+          "sprecher" : "Konstantin Graudus"
+        },
+        {
+          "rolle" : "Blacky",
+          "sprecher" : "Heikedine Körting"
+        },
+        {
+          "rolle" : "Juliet",
+          "sprecher" : "Anne Moll"
+        },
+        {
+          "rolle" : "Scott",
+          "sprecher" : "Tommaso Cacciapuoti"
+        },
+        {
+          "rolle" : "John",
+          "sprecher" : "Sascha Draeger",
+          "pseudonym" : "Martin Sichel"
+        },
+        {
+          "rolle" : "Kelly",
+          "sprecher" : "Juliane Szalay"
+        },
+        {
+          "rolle" : "Norman",
+          "sprecher" : "Eckart Dux"
+        },
+        {
+          "rolle" : "Mr. Darrow",
+          "sprecher" : "Joachim Kappl"
+        },
+        {
+          "rolle" : "Frau",
+          "sprecher" : "Anja Topf"
+        },
+        {
+          "rolle" : "Mann 1",
+          "sprecher" : "Thor W. Müller"
+        },
+        {
+          "rolle" : "Mann 2",
+          "sprecher" : "Helgo Liebig"
+        },
+        {
+          "rolle" : "Mann 3",
+          "sprecher" : "Rasmus Rakete"
+        },
+        {
+          "rolle" : "Mann 4",
+          "sprecher" : "Patrick Perales"
+        },
+        {
+          "rolle" : "Mann 5",
+          "sprecher" : "Patrick Bach"
+        },
+        {
+          "rolle" : "Mann 6",
+          "sprecher" : "Frank Meyer-Brockmann"
+        },
+        {
+          "rolle" : "Mann 7",
+          "sprecher" : "Roy Martens"
+        }
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/metadata.json",
+        "cover" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/cover.png",
+        "dreifragezeichen" : "https://dreifragezeichen.de/produktwelt/details/und-die-geisterlampe",
+        "appleMusic" : "https://music.apple.com/de/album/1092546618",
+        "spotify" : "https://open.spotify.com/intl-de/album/1nL3AddBvZ845zMyXRowgs",
+        "bookbeat" : "https://www.bookbeat.com/de/book/534932",
+        "amazonMusic" : "https://music.amazon.de/albums/B01CV1B34M",
+        "amazon" : "https://www.amazon.de/gp/product/B008L8OG8K",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_OapVHfFET5a",
+        "deezer" : "https://www.deezer.com/de/album/12761852"
+      },
+      "ids" : {
+        "dreimetadaten" : 186,
+        "appleMusic" : "1092546618",
+        "spotify" : "1nL3AddBvZ845zMyXRowgs",
+        "bookbeat" : "534932",
+        "amazonMusic" : "B01CV1B34M",
+        "amazon" : "B008L8OG8K",
+        "youTubeMusic" : "MPREb_OapVHfFET5a",
+        "deezer" : "12761852"
+      },
+      "medien" : [
+        {
+          "tracks" : [
+            {
+              "titel" : "und die Geisterlampe",
+              "start" : 0,
+              "end" : 1109933
+            },
+            {
+              "titel" : "Dunkle Vergangenheit",
+              "start" : 1109933,
+              "end" : 1797413
+            },
+            {
+              "titel" : "Entführt",
+              "start" : 1797413,
+              "end" : 2650187
+            },
+            {
+              "titel" : "Verschwörung auf der Eagle Ranch",
+              "start" : 2650187,
+              "end" : 4017840
+            }
+          ],
+          "ripLog" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/rip_log1.txt"
+        },
+        {
+          "tracks" : [
+            {
+              "titel" : "SOS",
+              "start" : 0,
+              "end" : 661640
+            },
+            {
+              "titel" : "Der graue Dämon",
+              "start" : 661640,
+              "end" : 1217947
+            },
+            {
+              "titel" : "Das Lehrstück",
+              "start" : 1217947,
+              "end" : 1967360
+            },
+            {
+              "titel" : "Das Rätsel der schwarzen Nadel",
+              "start" : 1967360,
+              "end" : 2679040
+            }
+          ],
+          "ripLog" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/rip_log2.txt"
+        },
+        {
+          "tracks" : [
+            {
+              "titel" : "Der verschwundene Superstar",
+              "start" : 0,
+              "end" : 1055280
+            },
+            {
+              "titel" : "Manches verlernt man nie",
+              "start" : 1055280,
+              "end" : 2010880
+            },
+            {
+              "titel" : "Psychomoon",
+              "start" : 2010880,
+              "end" : 2681040
+            },
+            {
+              "titel" : "Jagd auf den Weihnachtsmann",
+              "start" : 2681040,
+              "end" : 3602480
+            }
+          ],
+          "ripLog" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/rip_log3.txt"
+        }
+      ],
+      "teile" : [
+        {
+          "teilNummer" : 1,
+          "titel" : "und die Geisterlampe",
+          "autor" : "Kari Erlhoff",
+          "hörspielskriptautor" : "André Minninger",
+          "gesamtbeschreibung" : "Mr. Vancura ist Schauspieler und sammelt alles, was mit dem Orient zu tun hat. Sein ganzer Stolz ist eine Wunderlampe, in der ein richtiger Dschinn lebt. Aber der Dschinn ist verschwunden …",
+          "beschreibung" : "Mr. Vancura ist Schauspieler und sammelt alles, was mit dem Orient zu tun hat. Sein ganzer Stolz ist eine Wunderlampe, in der ein richtiger Dschinn lebt. Aber der Dschinn ist verschwunden …",
+          "veröffentlichungsdatum" : "2011-12-02",
+          "gesamtdauer" : 1109933,
+          "kapitel" : [
+            {
+              "titel" : "und die Geisterlampe",
+              "start" : 0,
+              "end" : 1109933
+            }
+          ],
+          "sprechrollen" : [
+            {
+              "rolle" : "Erzähler",
+              "sprecher" : "Thomas Fritsch"
+            },
+            {
+              "rolle" : "Justus Jonas, Erster Detektiv",
+              "sprecher" : "Oliver Rohrbeck"
+            },
+            {
+              "rolle" : "Peter Shaw, Zweiter Detektiv",
+              "sprecher" : "Jens Wawrczeck"
+            },
+            {
+              "rolle" : "Bob Andrews, Recherchen und Archiv",
+              "sprecher" : "Andreas Fröhlich"
+            },
+            {
+              "rolle" : "Mr. Vancura",
+              "sprecher" : "Lutz Herkenrath"
+            },
+            {
+              "rolle" : "Mrs. Fox",
+              "sprecher" : "Susan Jarling"
+            },
+            {
+              "rolle" : "Inspektor Cotta",
+              "sprecher" : "Holger Mahlich"
+            },
+            {
+              "rolle" : "Mr. Shaw",
+              "sprecher" : "Rasmus Borowski"
+            },
+            {
+              "rolle" : "Shannon",
+              "sprecher" : "Kerstin Draeger"
+            },
+            {
+              "rolle" : "Mr. Mosley",
+              "sprecher" : "Neil Malik Abdullah"
+            },
+            {
+              "rolle" : "Mann 1",
+              "sprecher" : "Thor W. Müller"
+            }
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/1/metadata.json",
+            "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/1/ffmetadata.txt"
+          },
+          "ids" : {
+            "dreimetadaten" : 187
+          }
+        },
+        {
+          "teilNummer" : 2,
+          "titel" : "Dunkle Vergangenheit",
+          "autor" : "Marco Sonnleitner",
+          "hörspielskriptautor" : "André Minninger",
+          "gesamtbeschreibung" : "Das neuste Hobby von Justus Jonas ist die Ahnenforschung.\nUnd dabei macht er eines Tages eine unglaubliche Entdeckung …",
+          "beschreibung" : "Das neuste Hobby von Justus Jonas ist die Ahnenforschung.\nUnd dabei macht er eines Tages eine unglaubliche Entdeckung …",
+          "veröffentlichungsdatum" : "2011-12-04",
+          "gesamtdauer" : 687480,
+          "kapitel" : [
+            {
+              "titel" : "Dunkle Vergangenheit",
+              "start" : 0,
+              "end" : 687480
+            }
+          ],
+          "sprechrollen" : [
+            {
+              "rolle" : "Erzähler",
+              "sprecher" : "Thomas Fritsch"
+            },
+            {
+              "rolle" : "Justus Jonas, Erster Detektiv",
+              "sprecher" : "Oliver Rohrbeck"
+            },
+            {
+              "rolle" : "Peter Shaw, Zweiter Detektiv",
+              "sprecher" : "Jens Wawrczeck"
+            },
+            {
+              "rolle" : "Bob Andrews, Recherchen und Archiv",
+              "sprecher" : "Andreas Fröhlich"
+            },
+            {
+              "rolle" : "Cowboy",
+              "sprecher" : "Achim Schülke"
+            }
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/2/metadata.json",
+            "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/2/ffmetadata.txt"
+          },
+          "ids" : {
+            "dreimetadaten" : 188
+          }
+        },
+        {
+          "teilNummer" : 3,
+          "titel" : "Entführt",
+          "autor" : "Marco Sonnleitner",
+          "hörspielskriptautor" : "André Minninger",
+          "gesamtbeschreibung" : "Peter erhält eine E-Mail: Kelly ist entführt worden! Den drei ??? bleibt weniger als eine Stunde Zeit, sie zu finden und zu befreien …",
+          "beschreibung" : "Peter erhält eine E-Mail: Kelly ist entführt worden! Den drei ??? bleibt weniger als eine Stunde Zeit, sie zu finden und zu befreien …",
+          "veröffentlichungsdatum" : "2011-12-06",
+          "gesamtdauer" : 852774,
+          "kapitel" : [
+            {
+              "titel" : "Entführt",
+              "start" : 0,
+              "end" : 852774
+            }
+          ],
+          "sprechrollen" : [
+            {
+              "rolle" : "Erzähler",
+              "sprecher" : "Thomas Fritsch"
+            },
+            {
+              "rolle" : "Justus Jonas, Erster Detektiv",
+              "sprecher" : "Oliver Rohrbeck"
+            },
+            {
+              "rolle" : "Peter Shaw, Zweiter Detektiv",
+              "sprecher" : "Jens Wawrczeck"
+            },
+            {
+              "rolle" : "Bob Andrews, Recherchen und Archiv",
+              "sprecher" : "Andreas Fröhlich"
+            },
+            {
+              "rolle" : "Patricia",
+              "sprecher" : "Rhea Harder-Vennewald"
+            },
+            {
+              "rolle" : "Peter Shawn",
+              "sprecher" : "Leonhard Mahlich"
+            },
+            {
+              "rolle" : "Mann 2",
+              "sprecher" : "Helgo Liebig"
+            }
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/3/metadata.json",
+            "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/3/ffmetadata.txt"
+          },
+          "ids" : {
+            "dreimetadaten" : 189
+          }
+        },
+        {
+          "teilNummer" : 4,
+          "titel" : "Verschwörung auf der Eagle Ranch",
+          "autor" : "Hendrik Buchna",
+          "hörspielskriptautor" : "André Minninger",
+          "gesamtbeschreibung" : "Auf dem Autorasthof \"Eagle Ranch\" geschehen merkwürdige Dinge und die drei ??? erhalten den Auftrag, herauszufinden, was es damit auf sich hat …",
+          "beschreibung" : "Auf dem Autorasthof \"Eagle Ranch\" geschehen merkwürdige Dinge und die drei ??? erhalten den Auftrag, herauszufinden, was es damit auf sich hat …",
+          "veröffentlichungsdatum" : "2011-12-08",
+          "gesamtdauer" : 1367653,
+          "kapitel" : [
+            {
+              "titel" : "Verschwörung auf der Eagle Ranch",
+              "start" : 0,
+              "end" : 1367653
+            }
+          ],
+          "sprechrollen" : [
+            {
+              "rolle" : "Bob Andrews, Recherchen und Archiv",
+              "sprecher" : "Andreas Fröhlich"
+            }
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/4/metadata.json",
+            "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/4/ffmetadata.txt"
+          },
+          "ids" : {
+            "dreimetadaten" : 190
+          }
+        },
+        {
+          "teilNummer" : 5,
+          "titel" : "SOS",
+          "autor" : "Marco Sonnleitner",
+          "hörspielskriptautor" : "André Minninger",
+          "gesamtbeschreibung" : "Als die drei ??? vom Strand kommen und auf dem Weg nach Hause sind, sehen sie ein SOS-Signal, das aus einem Haus gesendet wird. Eigentlich steht das Haus doch leer …",
+          "beschreibung" : "Als die drei ??? vom Strand kommen und auf dem Weg nach Hause sind, sehen sie ein SOS-Signal, das aus einem Haus gesendet wird. Eigentlich steht das Haus doch leer …",
+          "veröffentlichungsdatum" : "2011-12-10",
+          "gesamtdauer" : 661640,
+          "kapitel" : [
+            {
+              "titel" : "SOS",
+              "start" : 0,
+              "end" : 661640
+            }
+          ],
+          "sprechrollen" : [
+            {
+              "rolle" : "Erzähler",
+              "sprecher" : "Thomas Fritsch"
+            },
+            {
+              "rolle" : "Justus Jonas, Erster Detektiv",
+              "sprecher" : "Oliver Rohrbeck"
+            },
+            {
+              "rolle" : "Peter Shaw, Zweiter Detektiv",
+              "sprecher" : "Jens Wawrczeck"
+            },
+            {
+              "rolle" : "Bob Andrews, Recherchen und Archiv",
+              "sprecher" : "Andreas Fröhlich"
+            },
+            {
+              "rolle" : "Marty",
+              "sprecher" : "Philipp Draeger"
+            },
+            {
+              "rolle" : "Fred",
+              "sprecher" : "Guido Bernadotte"
+            },
+            {
+              "rolle" : "Mann 3",
+              "sprecher" : "Rasmus Rakete"
+            },
+            {
+              "rolle" : "Mann 4",
+              "sprecher" : "Patrick Perales"
+            }
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/5/metadata.json",
+            "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/5/ffmetadata.txt"
+          },
+          "ids" : {
+            "dreimetadaten" : 191
+          }
+        },
+        {
+          "teilNummer" : 6,
+          "titel" : "Der graue Dämon",
+          "autor" : "Hendrik Buchna",
+          "hörspielskriptautor" : "André Minninger",
+          "gesamtbeschreibung" : "Auf dem Weg nach Hause wird Peter plötzlich von einem unheimlichen, grauen Dämon verfolgt. Ihm bleibt nur noch ein Ausweg: die Flucht …",
+          "beschreibung" : "Auf dem Weg nach Hause wird Peter plötzlich von einem unheimlichen, grauen Dämon verfolgt. Ihm bleibt nur noch ein Ausweg: die Flucht …",
+          "veröffentlichungsdatum" : "2011-12-12",
+          "gesamtdauer" : 556307,
+          "kapitel" : [
+            {
+              "titel" : "Der graue Dämon",
+              "start" : 0,
+              "end" : 556307
+            }
+          ],
+          "sprechrollen" : [
+            {
+              "rolle" : "Peter Shaw, Zweiter Detektiv",
+              "sprecher" : "Jens Wawrczeck"
+            }
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/6/metadata.json",
+            "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/6/ffmetadata.txt"
+          },
+          "ids" : {
+            "dreimetadaten" : 192
+          }
+        },
+        {
+          "teilNummer" : 7,
+          "titel" : "Das Lehrstück",
+          "autor" : "Kari Erlhoff",
+          "hörspielskriptautor" : "André Minninger",
+          "gesamtbeschreibung" : "Peters ehemalige Klavierlehrerin, Mrs. Floyd, engagiert die drei ???, um herauszufinden, wo ihre verstorbene Mutter ihr Erbe versteckt haben könnte …",
+          "beschreibung" : "Peters ehemalige Klavierlehrerin, Mrs. Floyd, engagiert die drei ???, um herauszufinden, wo ihre verstorbene Mutter ihr Erbe versteckt haben könnte …",
+          "veröffentlichungsdatum" : "2011-12-14",
+          "gesamtdauer" : 749413,
+          "kapitel" : [
+            {
+              "titel" : "Das Lehrstück",
+              "start" : 0,
+              "end" : 749413
+            }
+          ],
+          "sprechrollen" : [
+            {
+              "rolle" : "Erzähler",
+              "sprecher" : "Thomas Fritsch"
+            },
+            {
+              "rolle" : "Justus Jonas, Erster Detektiv",
+              "sprecher" : "Oliver Rohrbeck"
+            },
+            {
+              "rolle" : "Peter Shaw, Zweiter Detektiv",
+              "sprecher" : "Jens Wawrczeck"
+            },
+            {
+              "rolle" : "Bob Andrews, Recherchen und Archiv",
+              "sprecher" : "Andreas Fröhlich"
+            },
+            {
+              "rolle" : "Mrs. Floyd",
+              "sprecher" : "Gabriele Libbach"
+            }
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/7/metadata.json",
+            "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/7/ffmetadata.txt"
+          },
+          "ids" : {
+            "dreimetadaten" : 193
+          }
+        },
+        {
+          "teilNummer" : 8,
+          "titel" : "Das Rätsel der schwarzen Nadel",
+          "autor" : "Hendrik Buchna",
+          "hörspielskriptautor" : "André Minninger",
+          "gesamtbeschreibung" : "Die drei ??? erhalten den Auftrag, bei der Übergabe einer schwarzen Nadel dabei zu sein. Aber geht es dabei wirklich nur um das Schmuckstück?",
+          "beschreibung" : "Die drei ??? erhalten den Auftrag, bei der Übergabe einer schwarzen Nadel dabei zu sein. Aber geht es dabei wirklich nur um das Schmuckstück?",
+          "veröffentlichungsdatum" : "2011-12-16",
+          "gesamtdauer" : 711680,
+          "kapitel" : [
+            {
+              "titel" : "Das Rätsel der schwarzen Nadel",
+              "start" : 0,
+              "end" : 711680
+            }
+          ],
+          "sprechrollen" : [
+            {
+              "rolle" : "Erzähler",
+              "sprecher" : "Thomas Fritsch"
+            },
+            {
+              "rolle" : "Justus Jonas, Erster Detektiv",
+              "sprecher" : "Oliver Rohrbeck"
+            },
+            {
+              "rolle" : "Peter Shaw, Zweiter Detektiv",
+              "sprecher" : "Jens Wawrczeck"
+            },
+            {
+              "rolle" : "Bob Andrews, Recherchen und Archiv",
+              "sprecher" : "Andreas Fröhlich"
+            },
+            {
+              "rolle" : "Tante Mathilda",
+              "sprecher" : "Karin Lieneweg"
+            },
+            {
+              "rolle" : "Vincent Grimes",
+              "sprecher" : "Konstantin Graudus"
+            }
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/8/metadata.json",
+            "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/8/ffmetadata.txt"
+          },
+          "ids" : {
+            "dreimetadaten" : 194
+          }
+        },
+        {
+          "teilNummer" : 9,
+          "titel" : "Der verschwundene Superstar",
+          "autor" : "Kari Erlhoff",
+          "hörspielskriptautor" : "André Minninger",
+          "gesamtbeschreibung" : "Blacky, der Papagei der drei ???, benimmt sich seit ein paar Tagen höchst sonderbar.\nWas ist der Grund für die merkwürdigen Sprüche, die der Vogel plötzlich zitiert …",
+          "beschreibung" : "Blacky, der Papagei der drei ???, benimmt sich seit ein paar Tagen höchst sonderbar.\nWas ist der Grund für die merkwürdigen Sprüche, die der Vogel plötzlich zitiert …",
+          "veröffentlichungsdatum" : "2011-12-18",
+          "gesamtdauer" : 1055280,
+          "kapitel" : [
+            {
+              "titel" : "Der verschwundene Superstar",
+              "start" : 0,
+              "end" : 1055280
+            }
+          ],
+          "sprechrollen" : [
+            {
+              "rolle" : "Erzähler",
+              "sprecher" : "Thomas Fritsch"
+            },
+            {
+              "rolle" : "Justus Jonas, Erster Detektiv",
+              "sprecher" : "Oliver Rohrbeck"
+            },
+            {
+              "rolle" : "Peter Shaw, Zweiter Detektiv",
+              "sprecher" : "Jens Wawrczeck"
+            },
+            {
+              "rolle" : "Bob Andrews, Recherchen und Archiv",
+              "sprecher" : "Andreas Fröhlich"
+            },
+            {
+              "rolle" : "Tante Mathilda",
+              "sprecher" : "Karin Lieneweg"
+            },
+            {
+              "rolle" : "Blacky",
+              "sprecher" : "Heikedine Körting"
+            },
+            {
+              "rolle" : "Juliet",
+              "sprecher" : "Anne Moll"
+            },
+            {
+              "rolle" : "Scott",
+              "sprecher" : "Tommaso Cacciapuoti"
+            },
+            {
+              "rolle" : "John",
+              "sprecher" : "Sascha Draeger",
+              "pseudonym" : "Martin Sichel"
+            }
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/9/metadata.json",
+            "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/9/ffmetadata.txt"
+          },
+          "ids" : {
+            "dreimetadaten" : 195
+          }
+        },
+        {
+          "teilNummer" : 10,
+          "titel" : "Manches verlernt man nie",
+          "autor" : "Marco Sonnleitner",
+          "hörspielskriptautor" : "André Minninger",
+          "gesamtbeschreibung" : "Die drei ??? sollen von der Stadt Rocky Beach für ihr Lebenswerk geehrt werden. Und prompt sitzen sie gleich wieder mitten in einem neuen Fall …",
+          "beschreibung" : "Die drei ??? sollen von der Stadt Rocky Beach für ihr Lebenswerk geehrt werden. Und prompt sitzen sie gleich wieder mitten in einem neuen Fall …",
+          "veröffentlichungsdatum" : "2011-12-20",
+          "gesamtdauer" : 955600,
+          "kapitel" : [
+            {
+              "titel" : "Manches verlernt man nie",
+              "start" : 0,
+              "end" : 955600
+            }
+          ],
+          "sprechrollen" : [
+            {
+              "rolle" : "Justus Jonas, Erster Detektiv",
+              "sprecher" : "Oliver Rohrbeck"
+            }
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/10/metadata.json",
+            "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/10/ffmetadata.txt"
+          },
+          "ids" : {
+            "dreimetadaten" : 196
+          }
+        },
+        {
+          "teilNummer" : 11,
+          "titel" : "Psychomoon",
+          "autor" : "Kari Erlhoff",
+          "hörspielskriptautor" : "André Minninger",
+          "gesamtbeschreibung" : "Kellys Tante wird erpresst und die drei ??? sollen bei der Übergabe des Geldes behilflich sein. Aber in dem Motel, in dem Peter und Kelly absteigen, passieren merkwürdige Dinge …",
+          "beschreibung" : "Kellys Tante wird erpresst und die drei ??? sollen bei der Übergabe des Geldes behilflich sein. Aber in dem Motel, in dem Peter und Kelly absteigen, passieren merkwürdige Dinge …",
+          "veröffentlichungsdatum" : "2011-12-22",
+          "gesamtdauer" : 670160,
+          "kapitel" : [
+            {
+              "titel" : "Psychomoon",
+              "start" : 0,
+              "end" : 670160
+            }
+          ],
+          "sprechrollen" : [
+            {
+              "rolle" : "Erzähler",
+              "sprecher" : "Thomas Fritsch"
+            },
+            {
+              "rolle" : "Justus Jonas, Erster Detektiv",
+              "sprecher" : "Oliver Rohrbeck"
+            },
+            {
+              "rolle" : "Peter Shaw, Zweiter Detektiv",
+              "sprecher" : "Jens Wawrczeck"
+            },
+            {
+              "rolle" : "Bob Andrews, Recherchen und Archiv",
+              "sprecher" : "Andreas Fröhlich"
+            },
+            {
+              "rolle" : "Kelly",
+              "sprecher" : "Juliane Szalay"
+            },
+            {
+              "rolle" : "Norman",
+              "sprecher" : "Eckart Dux"
+            },
+            {
+              "rolle" : "Frau",
+              "sprecher" : "Anja Topf"
+            }
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/11/metadata.json",
+            "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/11/ffmetadata.txt"
+          },
+          "ids" : {
+            "dreimetadaten" : 197
+          }
+        },
+        {
+          "teilNummer" : 12,
+          "titel" : "Jagd auf den Weihnachtsmann",
+          "autor" : "Hendrik Buchna",
+          "hörspielskriptautor" : "André Minninger",
+          "gesamtbeschreibung" : "Rocky Beach versinkt im Schnee. Und zu allem Überfluss treibt gerade jetzt, wo die Polizei mehr oder weniger handlungsunfähig ist, ein krimineller Weihnachtsmann in der Stadt sein Unwesen …",
+          "beschreibung" : "Rocky Beach versinkt im Schnee. Und zu allem Überfluss treibt gerade jetzt, wo die Polizei mehr oder weniger handlungsunfähig ist, ein krimineller Weihnachtsmann in der Stadt sein Unwesen …",
+          "veröffentlichungsdatum" : "2011-12-24",
+          "gesamtdauer" : 921440,
+          "kapitel" : [
+            {
+              "titel" : "Jagd auf den Weihnachtsmann",
+              "start" : 0,
+              "end" : 921440
+            }
+          ],
+          "sprechrollen" : [
+            {
+              "rolle" : "Erzähler",
+              "sprecher" : "Thomas Fritsch"
+            },
+            {
+              "rolle" : "Justus Jonas, Erster Detektiv",
+              "sprecher" : "Oliver Rohrbeck"
+            },
+            {
+              "rolle" : "Peter Shaw, Zweiter Detektiv",
+              "sprecher" : "Jens Wawrczeck"
+            },
+            {
+              "rolle" : "Bob Andrews, Recherchen und Archiv",
+              "sprecher" : "Andreas Fröhlich"
+            },
+            {
+              "rolle" : "Inspektor Cotta",
+              "sprecher" : "Holger Mahlich"
+            },
+            {
+              "rolle" : "Mr. Darrow",
+              "sprecher" : "Joachim Kappl"
+            },
+            {
+              "rolle" : "Mann 5",
+              "sprecher" : "Patrick Bach"
+            },
+            {
+              "rolle" : "Mann 6",
+              "sprecher" : "Frank Meyer-Brockmann"
+            },
+            {
+              "rolle" : "Mann 7",
+              "sprecher" : "Roy Martens"
+            }
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/12/metadata.json",
+            "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-die-Geisterlampe/12/ffmetadata.txt"
+          },
+          "ids" : {
+            "dreimetadaten" : 198
+          }
+        }
+      ]
+    },
+    {
+      "titel" : "Das Rätsel der Sieben",
+      "autor" : "André Minninger, Kari Erlhoff, Hendrik Buchna, Marco Sonnleitner, Ben Nevis, Christoph Dittert, André Marx",
+      "hörspielskriptautor" : "André Minninger",
+      "gesamtbeschreibung" : "Sieben Kurzgeschichten von sieben Autoren in einer Hörspiel-Box: Bei diesen Fällen wird so rasant ermittelt, dass die Lösungen nur knapp entfernt sind!\nMysteriös, abenteuerlich, gespenstisch, experimentell, witzig, unheimlich und verflixt: Siebenmal knackig-kurzer Hör-Spaß ist garantiert!",
+      "beschreibung" : "Sieben Kurzgeschichten von sieben Autoren in einer Hörspiel-Box: Bei diesen Fällen wird so rasant ermittelt, dass die Lösungen nur knapp entfernt sind!\nMysteriös, abenteuerlich, gespenstisch, experimentell, witzig, unheimlich und verflixt: Siebenmal knackig-kurzer Hör-Spaß ist garantiert!",
+      "veröffentlichungsdatum" : "2014-02-21",
+      "gesamtdauer" : 9720654,
+      "sprechrollen" : [
+        {
+          "rolle" : "Erzähler",
+          "sprecher" : "Thomas Fritsch"
+        },
+        {
+          "rolle" : "Justus Jonas, Erster Detektiv",
+          "sprecher" : "Oliver Rohrbeck"
+        },
+        {
+          "rolle" : "Peter Shaw, Zweiter Detektiv",
+          "sprecher" : "Jens Wawrczeck"
+        },
+        {
+          "rolle" : "Bob Andrews, Recherchen und Archiv",
+          "sprecher" : "Andreas Fröhlich"
+        },
+        {
+          "rolle" : "Emily White",
+          "sprecher" : "Sabine Hahn"
+        },
+        {
+          "rolle" : "Judy Fradkin",
+          "sprecher" : "Ursula Heyer"
+        },
+        {
+          "rolle" : "Aladin",
+          "sprecher" : "Heidi Schaffrath"
+        },
+        {
+          "rolle" : "Aschenputtel",
+          "sprecher" : "Regina Lemnitz"
+        },
+        {
+          "rolle" : "Prinzessin",
+          "sprecher" : "Renate Pichler"
+        },
+        {
+          "rolle" : "Rotkäppchen",
+          "sprecher" : "Angela Stresemann"
+        },
+        {
+          "rolle" : "Meerjungfrau",
+          "sprecher" : "Heikedine Körting",
+          "pseudonym" : "Pamela Punti"
+        },
+        {
+          "rolle" : "Mr. Andrews",
+          "sprecher" : "Henry König"
+        },
+        {
+          "rolle" : "Mrs. Andrews",
+          "sprecher" : "Konstanze Ullmer"
+        },
+        {
+          "rolle" : "Arzt",
+          "sprecher" : "Erik Schäffler"
+        },
+        {
+          "rolle" : "Mrs. Wallace",
+          "sprecher" : "Angela Stresemann"
+        },
+        {
+          "rolle" : "Bobby",
+          "sprecher" : "Merete Brettschneider"
+        },
+        {
+          "rolle" : "Tante Mathilda",
+          "sprecher" : "Karin Lieneweg"
+        },
+        {
+          "rolle" : "Onkel Titus",
+          "sprecher" : "Andreas E. Beurmann",
+          "pseudonym" : "Hans Meinhardt"
+        },
+        {
+          "rolle" : "Croupier",
+          "sprecher" : "Gosta Liptow"
+        },
+        {
+          "rolle" : "Carl Hopkins, Physiker",
+          "sprecher" : "Ben Hecker"
+        },
+        {
+          "rolle" : "Miller, Schiffsdetektiv",
+          "sprecher" : "Michael Grimm"
+        },
+        {
+          "rolle" : "Kapitän Sherwood",
+          "sprecher" : "Horst Naumann"
+        },
+        {
+          "rolle" : "Theodore Quaid",
+          "sprecher" : "Dietrich Adam"
+        },
+        {
+          "rolle" : "Jamie Peterson, Barmann",
+          "sprecher" : "Patrick Bach"
+        },
+        {
+          "rolle" : "Handerson",
+          "sprecher" : "Wolfgang Rositzka"
+        },
+        {
+          "rolle" : "Diego",
+          "sprecher" : "Stephan Benson"
+        },
+        {
+          "rolle" : "Mercedes",
+          "sprecher" : "Hella von der Osten-Sacken",
+          "pseudonym" : "Wanda Osten"
+        },
+        {
+          "rolle" : "Nayeli",
+          "sprecher" : "Stefan Brönneke"
+        },
+        {
+          "rolle" : "Barker",
+          "sprecher" : "Ben Hecker"
+        },
+        {
+          "rolle" : "Off-Sprecherin",
+          "sprecher" : "Claudia Stocksieker"
+        },
+        {
+          "rolle" : "Ian Carew",
+          "sprecher" : "Sascha Draeger"
+        }
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/metadata.json",
+        "cover" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/cover.png",
+        "dreifragezeichen" : "https://dreifragezeichen.de/produktwelt/details/das-ratsel-der-sieben",
+        "appleMusic" : "https://music.apple.com/de/album/1092549930",
+        "spotify" : "https://open.spotify.com/intl-de/album/2AEzTekSWfyfzJH56jmhET",
+        "bookbeat" : "https://www.bookbeat.com/de/book/534898",
+        "amazonMusic" : "https://music.amazon.de/albums/B01CV1AZ64",
+        "amazon" : "https://www.amazon.de/gp/product/B00H5DNBKQ",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_vwIe8fywkgK",
+        "deezer" : "https://www.deezer.com/de/album/12761844"
+      },
+      "ids" : {
+        "dreimetadaten" : 210,
+        "appleMusic" : "1092549930",
+        "spotify" : "2AEzTekSWfyfzJH56jmhET",
+        "bookbeat" : "534898",
+        "amazonMusic" : "B01CV1AZ64",
+        "amazon" : "B00H5DNBKQ",
+        "youTubeMusic" : "MPREb_vwIe8fywkgK",
+        "deezer" : "12761844"
+      },
+      "medien" : [
+        {
+          "tracks" : [
+            {
+              "titel" : "Der siebte Gast – Inszenierung neuer Geschichten",
+              "start" : 0,
+              "end" : 439267
+            },
+            {
+              "titel" : "Der siebte Gast – Die Worte einer Lügenhexe",
+              "start" : 439267,
+              "end" : 774387
+            },
+            {
+              "titel" : "Der siebte Gast – Prinzessin in Champagnerlaune",
+              "start" : 774387,
+              "end" : 1596747
+            },
+            {
+              "titel" : "Bis um sieben zurück – Kopfschmerzen",
+              "start" : 1596747,
+              "end" : 2291680
+            },
+            {
+              "titel" : "Bis um sieben zurück – Erwischt!",
+              "start" : 2291680,
+              "end" : 2796560
+            },
+            {
+              "titel" : "Bis um sieben zurück – Bobby",
+              "start" : 2796560,
+              "end" : 3073920
+            }
+          ],
+          "ripLog" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/rip_log1.txt"
+        },
+        {
+          "tracks" : [
+            {
+              "titel" : "Bobs schwerste Stunde – Alles weg!",
+              "start" : 0,
+              "end" : 433867
+            },
+            {
+              "titel" : "Bobs schwerste Stunde – Gruselstimme",
+              "start" : 433867,
+              "end" : 973600
+            },
+            {
+              "titel" : "Bobs schwerste Stunde – Aufwendiges Vorhaben",
+              "start" : 973600,
+              "end" : 1574187
+            },
+            {
+              "titel" : "Die rote Sieben – Rien ne va plus",
+              "start" : 1574187,
+              "end" : 1869480
+            },
+            {
+              "titel" : "Die rote Sieben – Blutspuren",
+              "start" : 1869480,
+              "end" : 2303627
+            },
+            {
+              "titel" : "Die rote Sieben – Abgekartetes Spiel",
+              "start" : 2303627,
+              "end" : 2748267
+            }
+          ],
+          "ripLog" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/rip_log2.txt"
+        },
+        {
+          "tracks" : [
+            {
+              "titel" : "Schutzgeld – Überraschung!",
+              "start" : 0,
+              "end" : 277693
+            },
+            {
+              "titel" : "Schutzgeld – Arges Misstrauen",
+              "start" : 277693,
+              "end" : 941400
+            },
+            {
+              "titel" : "Schutzgeld – Sieben harte Stunden",
+              "start" : 941400,
+              "end" : 1389800
+            },
+            {
+              "titel" : "Die siebte Frau des Leuchters – Böse Macht im Grab",
+              "start" : 1389800,
+              "end" : 1674907
+            },
+            {
+              "titel" : "Die siebte Frau des Leuchters – Auf dem Geisterschiff",
+              "start" : 1674907,
+              "end" : 2019467
+            },
+            {
+              "titel" : "Die siebte Frau des Leuchters – Freier Wille",
+              "start" : 2019467,
+              "end" : 2798827
+            },
+            {
+              "titel" : "Die verschwundene Torte – In Angst und Schrecken",
+              "start" : 2798827,
+              "end" : 3166667
+            },
+            {
+              "titel" : "Die verschwundene Torte – Gescanntes Areal",
+              "start" : 3166667,
+              "end" : 3327240
+            },
+            {
+              "titel" : "Die verschwundene Torte – Des Rätsels Lösung",
+              "start" : 3327240,
+              "end" : 3898467
+            }
+          ],
+          "ripLog" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/rip_log3.txt"
+        }
+      ],
+      "teile" : [
+        {
+          "teilNummer" : 1,
+          "titel" : "Der siebte Gast",
+          "autor" : "André Minninger",
+          "hörspielskriptautor" : "André Minninger",
+          "gesamtbeschreibung" : "Mrs. Emily White spürt instinktiv, dass an dem Schreiben von ihrer Freundin Judy Fradkin etwas faul ist. Warum wurde die alte Dame von dem Jahrestreffen der Märchenfiguren so urplötzlich ausgeladen? Um der Sache auf den Grund zu gehen, holt sich Mrs White die Unterstützung der drei ???.",
+          "beschreibung" : "Mrs. Emily White spürt instinktiv, dass an dem Schreiben von ihrer Freundin Judy Fradkin etwas faul ist. Warum wurde die alte Dame von dem Jahrestreffen der Märchenfiguren so urplötzlich ausgeladen? Um der Sache auf den Grund zu gehen, holt sich Mrs White die Unterstützung der drei ???.",
+          "veröffentlichungsdatum" : "2014-02-21",
+          "gesamtdauer" : 1596747,
+          "kapitel" : [
+            {
+              "titel" : "Inszenierung neuer Geschichten",
+              "start" : 0,
+              "end" : 439267
+            },
+            {
+              "titel" : "Die Worte einer Lügenhexe",
+              "start" : 439267,
+              "end" : 774387
+            },
+            {
+              "titel" : "Prinzessin in Champagnerlaune",
+              "start" : 774387,
+              "end" : 1596747
+            }
+          ],
+          "sprechrollen" : [
+            {
+              "rolle" : "Erzähler",
+              "sprecher" : "Thomas Fritsch"
+            },
+            {
+              "rolle" : "Justus Jonas, Erster Detektiv",
+              "sprecher" : "Oliver Rohrbeck"
+            },
+            {
+              "rolle" : "Peter Shaw, Zweiter Detektiv",
+              "sprecher" : "Jens Wawrczeck"
+            },
+            {
+              "rolle" : "Bob Andrews, Recherchen und Archiv",
+              "sprecher" : "Andreas Fröhlich"
+            },
+            {
+              "rolle" : "Emily White",
+              "sprecher" : "Sabine Hahn"
+            },
+            {
+              "rolle" : "Judy Fradkin",
+              "sprecher" : "Ursula Heyer"
+            },
+            {
+              "rolle" : "Aladin",
+              "sprecher" : "Heidi Schaffrath"
+            },
+            {
+              "rolle" : "Aschenputtel",
+              "sprecher" : "Regina Lemnitz"
+            },
+            {
+              "rolle" : "Prinzessin",
+              "sprecher" : "Renate Pichler"
+            },
+            {
+              "rolle" : "Rotkäppchen",
+              "sprecher" : "Angela Stresemann"
+            },
+            {
+              "rolle" : "Meerjungfrau",
+              "sprecher" : "Heikedine Körting",
+              "pseudonym" : "Pamela Punti"
+            }
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/1/metadata.json",
+            "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/1/ffmetadata.txt"
+          },
+          "ids" : {
+            "dreimetadaten" : 211
+          }
+        },
+        {
+          "teilNummer" : 2,
+          "titel" : "Bis um sieben zurück",
+          "autor" : "Kari Erlhoff",
+          "hörspielskriptautor" : "André Minninger",
+          "gesamtbeschreibung" : "Bob Andrews rutscht auf dem glitschigen Boden des Schuppens aus und wird ohnmächtig. Als er kurze Zeit später erwacht, scheinen einige Dinge plötzlich recht merkwürdig zu sein … Doch nicht nur für ihn; denn auch seine Eltern scheinen ihn kaum wiederzuerkennen und machen sich die größten Sorgen um ihren Sohn. In ihrer Angst ziehen sie einen Arzt hinzu …",
+          "beschreibung" : "Bob Andrews rutscht auf dem glitschigen Boden des Schuppens aus und wird ohnmächtig. Als er kurze Zeit später erwacht, scheinen einige Dinge plötzlich recht merkwürdig zu sein … Doch nicht nur für ihn; denn auch seine Eltern scheinen ihn kaum wiederzuerkennen und machen sich die größten Sorgen um ihren Sohn. In ihrer Angst ziehen sie einen Arzt hinzu …",
+          "veröffentlichungsdatum" : "2014-02-21",
+          "gesamtdauer" : 1477173,
+          "kapitel" : [
+            {
+              "titel" : "Kopfschmerzen",
+              "start" : 0,
+              "end" : 694933
+            },
+            {
+              "titel" : "Erwischt!",
+              "start" : 694933,
+              "end" : 1199813
+            },
+            {
+              "titel" : "Bobby",
+              "start" : 1199813,
+              "end" : 1477173
+            }
+          ],
+          "sprechrollen" : [
+            {
+              "rolle" : "Erzähler",
+              "sprecher" : "Thomas Fritsch"
+            },
+            {
+              "rolle" : "Justus Jonas, Erster Detektiv",
+              "sprecher" : "Oliver Rohrbeck"
+            },
+            {
+              "rolle" : "Peter Shaw, Zweiter Detektiv",
+              "sprecher" : "Jens Wawrczeck"
+            },
+            {
+              "rolle" : "Bob Andrews, Recherchen und Archiv",
+              "sprecher" : "Andreas Fröhlich"
+            },
+            {
+              "rolle" : "Mr. Andrews",
+              "sprecher" : "Henry König"
+            },
+            {
+              "rolle" : "Mrs. Andrews",
+              "sprecher" : "Konstanze Ullmer"
+            },
+            {
+              "rolle" : "Arzt",
+              "sprecher" : "Erik Schäffler"
+            },
+            {
+              "rolle" : "Mrs. Wallace",
+              "sprecher" : "Angela Stresemann"
+            },
+            {
+              "rolle" : "Bobby",
+              "sprecher" : "Merete Brettschneider"
+            }
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/2/metadata.json",
+            "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/2/ffmetadata.txt"
+          },
+          "ids" : {
+            "dreimetadaten" : 212
+          }
+        },
+        {
+          "teilNummer" : 3,
+          "titel" : "Bobs schwerste Stunde",
+          "autor" : "Hendrik Buchna",
+          "hörspielskriptautor" : "André Minninger",
+          "gesamtbeschreibung" : "Bob weicht jede Farbe aus dem Gesicht. Wie vom Blitz getroffen steht er vor dem geöffneten Aktenschrank und lässt seinen Blick über die leeren Regale schweifen. Einbrecher haben das gesamte Fall-Archiv der drei Detektive gestohlen! Die Sammlung scheint für immer verloren zu sein. Doch dann entdeckt Justus einen Zettel mit einer merkwürdigen Botschaft …",
+          "beschreibung" : "Bob weicht jede Farbe aus dem Gesicht. Wie vom Blitz getroffen steht er vor dem geöffneten Aktenschrank und lässt seinen Blick über die leeren Regale schweifen. Einbrecher haben das gesamte Fall-Archiv der drei Detektive gestohlen! Die Sammlung scheint für immer verloren zu sein. Doch dann entdeckt Justus einen Zettel mit einer merkwürdigen Botschaft …",
+          "veröffentlichungsdatum" : "2014-02-21",
+          "gesamtdauer" : 1574187,
+          "kapitel" : [
+            {
+              "titel" : "Alles weg!",
+              "start" : 0,
+              "end" : 433867
+            },
+            {
+              "titel" : "Gruselstimme",
+              "start" : 433867,
+              "end" : 973600
+            },
+            {
+              "titel" : "Aufwendiges Vorhaben",
+              "start" : 973600,
+              "end" : 1574187
+            }
+          ],
+          "sprechrollen" : [
+            {
+              "rolle" : "Erzähler",
+              "sprecher" : "Thomas Fritsch"
+            },
+            {
+              "rolle" : "Justus Jonas, Erster Detektiv",
+              "sprecher" : "Oliver Rohrbeck"
+            },
+            {
+              "rolle" : "Peter Shaw, Zweiter Detektiv",
+              "sprecher" : "Jens Wawrczeck"
+            },
+            {
+              "rolle" : "Bob Andrews, Recherchen und Archiv",
+              "sprecher" : "Andreas Fröhlich"
+            },
+            {
+              "rolle" : "Tante Mathilda",
+              "sprecher" : "Karin Lieneweg"
+            },
+            {
+              "rolle" : "Onkel Titus",
+              "sprecher" : "Andreas E. Beurmann",
+              "pseudonym" : "Hans Meinhardt"
+            }
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/3/metadata.json",
+            "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/3/ffmetadata.txt"
+          },
+          "ids" : {
+            "dreimetadaten" : 213
+          }
+        },
+        {
+          "teilNummer" : 4,
+          "titel" : "Die rote Sieben",
+          "autor" : "Marco Sonnleitner",
+          "hörspielskriptautor" : "André Minninger",
+          "gesamtbeschreibung" : "\"Ihre Einsätze bitte!\" Während der Croupier im Casino des Luxusdampfers die Kugel in der Roulette-Schüssel kreisen lässt, wird in Kabine 347 ein Passagier niedergeschlagen und ausgeraubt! Ein Fall für die drei Detektive, die auf dem Schiff gerade als Aushilfskellner arbeiten …",
+          "beschreibung" : "\"Ihre Einsätze bitte!\" Während der Croupier im Casino des Luxusdampfers die Kugel in der Roulette-Schüssel kreisen lässt, wird in Kabine 347 ein Passagier niedergeschlagen und ausgeraubt! Ein Fall für die drei Detektive, die auf dem Schiff gerade als Aushilfskellner arbeiten …",
+          "veröffentlichungsdatum" : "2014-02-21",
+          "gesamtdauer" : 1174080,
+          "kapitel" : [
+            {
+              "titel" : "Rien ne va plus",
+              "start" : 0,
+              "end" : 295293
+            },
+            {
+              "titel" : "Blutspuren",
+              "start" : 295293,
+              "end" : 729440
+            },
+            {
+              "titel" : "Abgekartetes Spiel",
+              "start" : 729440,
+              "end" : 1174080
+            }
+          ],
+          "sprechrollen" : [
+            {
+              "rolle" : "Erzähler",
+              "sprecher" : "Thomas Fritsch"
+            },
+            {
+              "rolle" : "Justus Jonas, Erster Detektiv",
+              "sprecher" : "Oliver Rohrbeck"
+            },
+            {
+              "rolle" : "Peter Shaw, Zweiter Detektiv",
+              "sprecher" : "Jens Wawrczeck"
+            },
+            {
+              "rolle" : "Bob Andrews, Recherchen und Archiv",
+              "sprecher" : "Andreas Fröhlich"
+            },
+            {
+              "rolle" : "Croupier",
+              "sprecher" : "Gosta Liptow"
+            },
+            {
+              "rolle" : "Carl Hopkins, Physiker",
+              "sprecher" : "Ben Hecker"
+            },
+            {
+              "rolle" : "Miller, Schiffsdetektiv",
+              "sprecher" : "Michael Grimm"
+            },
+            {
+              "rolle" : "Kapitän Sherwood",
+              "sprecher" : "Horst Naumann"
+            },
+            {
+              "rolle" : "Theodore Quaid",
+              "sprecher" : "Dietrich Adam"
+            },
+            {
+              "rolle" : "Jamie Peterson, Barmann",
+              "sprecher" : "Patrick Bach"
+            }
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/4/metadata.json",
+            "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/4/ffmetadata.txt"
+          },
+          "ids" : {
+            "dreimetadaten" : 214
+          }
+        },
+        {
+          "teilNummer" : 5,
+          "titel" : "Schutzgeld",
+          "autor" : "Ben Nevis",
+          "hörspielskriptautor" : "André Minninger",
+          "gesamtbeschreibung" : "Wer ist die seltsame Dame, die so auffällig unauffällig durch die Einkaufsstraße schleicht, und sich dabei immer wieder ängstlich umsieht? Als sich die drei Detektive an ihre Fersen heften und die Verdächtige demaskieren, erleben sie eine große Überraschung. Doch jetzt fangen die Schwierigkeiten erst an …",
+          "beschreibung" : "Wer ist die seltsame Dame, die so auffällig unauffällig durch die Einkaufsstraße schleicht, und sich dabei immer wieder ängstlich umsieht? Als sich die drei Detektive an ihre Fersen heften und die Verdächtige demaskieren, erleben sie eine große Überraschung. Doch jetzt fangen die Schwierigkeiten erst an …",
+          "veröffentlichungsdatum" : "2014-02-21",
+          "gesamtdauer" : 1389800,
+          "kapitel" : [
+            {
+              "titel" : "Überraschung!",
+              "start" : 0,
+              "end" : 277693
+            },
+            {
+              "titel" : "Arges Misstrauen",
+              "start" : 277693,
+              "end" : 941400
+            },
+            {
+              "titel" : "Sieben harte Stunden",
+              "start" : 941400,
+              "end" : 1389800
+            }
+          ],
+          "sprechrollen" : [
+            {
+              "rolle" : "Erzähler",
+              "sprecher" : "Thomas Fritsch"
+            },
+            {
+              "rolle" : "Justus Jonas, Erster Detektiv",
+              "sprecher" : "Oliver Rohrbeck"
+            },
+            {
+              "rolle" : "Peter Shaw, Zweiter Detektiv",
+              "sprecher" : "Jens Wawrczeck"
+            },
+            {
+              "rolle" : "Bob Andrews, Recherchen und Archiv",
+              "sprecher" : "Andreas Fröhlich"
+            },
+            {
+              "rolle" : "Onkel Titus",
+              "sprecher" : "Andreas E. Beurmann",
+              "pseudonym" : "Hans Meinhardt"
+            },
+            {
+              "rolle" : "Tante Mathilda",
+              "sprecher" : "Karin Lieneweg"
+            },
+            {
+              "rolle" : "Handerson",
+              "sprecher" : "Wolfgang Rositzka"
+            },
+            {
+              "rolle" : "Diego",
+              "sprecher" : "Stephan Benson"
+            },
+            {
+              "rolle" : "Mercedes",
+              "sprecher" : "Hella von der Osten-Sacken",
+              "pseudonym" : "Wanda Osten"
+            }
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/5/metadata.json",
+            "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/5/ffmetadata.txt"
+          },
+          "ids" : {
+            "dreimetadaten" : 215
+          }
+        },
+        {
+          "teilNummer" : 6,
+          "titel" : "Die siebte Frau des Leuchters",
+          "autor" : "Christoph Dittert",
+          "hörspielskriptautor" : "André Minninger",
+          "gesamtbeschreibung" : "\"Mein Name ist Nayeli. Und ich bin ein Dieb!\" Der junge Mann, der bei den drei Detektiven auf dem Schrottplatz auftaucht, zieht einen antiken Kerzenhalter aus seinem Rucksack und erzählt dazu eine seltsame Geschichte. Doch wer ist der Fremde, der urplötzlich auftaucht und Nayeli dann in die Flucht schlägt? Unversehens geraten Justus, Bob und Peter in große Gefahr …",
+          "beschreibung" : "\"Mein Name ist Nayeli. Und ich bin ein Dieb!\" Der junge Mann, der bei den drei Detektiven auf dem Schrottplatz auftaucht, zieht einen antiken Kerzenhalter aus seinem Rucksack und erzählt dazu eine seltsame Geschichte. Doch wer ist der Fremde, der urplötzlich auftaucht und Nayeli dann in die Flucht schlägt? Unversehens geraten Justus, Bob und Peter in große Gefahr …",
+          "veröffentlichungsdatum" : "2014-02-21",
+          "gesamtdauer" : 1409027,
+          "kapitel" : [
+            {
+              "titel" : "Böse Macht im Grab",
+              "start" : 0,
+              "end" : 285107
+            },
+            {
+              "titel" : "Auf dem Geisterschiff",
+              "start" : 285107,
+              "end" : 629667
+            },
+            {
+              "titel" : "Freier Wille",
+              "start" : 629667,
+              "end" : 1409027
+            }
+          ],
+          "sprechrollen" : [
+            {
+              "rolle" : "Erzähler",
+              "sprecher" : "Thomas Fritsch"
+            },
+            {
+              "rolle" : "Justus Jonas, Erster Detektiv",
+              "sprecher" : "Oliver Rohrbeck"
+            },
+            {
+              "rolle" : "Peter Shaw, Zweiter Detektiv",
+              "sprecher" : "Jens Wawrczeck"
+            },
+            {
+              "rolle" : "Bob Andrews, Recherchen und Archiv",
+              "sprecher" : "Andreas Fröhlich"
+            },
+            {
+              "rolle" : "Nayeli",
+              "sprecher" : "Stefan Brönneke"
+            },
+            {
+              "rolle" : "Barker",
+              "sprecher" : "Ben Hecker"
+            },
+            {
+              "rolle" : "Onkel Titus",
+              "sprecher" : "Andreas E. Beurmann",
+              "pseudonym" : "Hans Meinhardt"
+            },
+            {
+              "rolle" : "Off-Sprecherin",
+              "sprecher" : "Claudia Stocksieker"
+            }
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/6/metadata.json",
+            "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/6/ffmetadata.txt"
+          },
+          "ids" : {
+            "dreimetadaten" : 216
+          }
+        },
+        {
+          "teilNummer" : 7,
+          "titel" : "Die verschwundene Torte",
+          "autor" : "André Marx",
+          "hörspielskriptautor" : "André Minninger",
+          "gesamtbeschreibung" : "An Justus' Geburtstag muss der Erste Detektiv eine schwere Niederlage einstecken: Ausgerechnet seine Geburtstagstorte wurde über Nacht aus der Freiluftwerkstatt gestohlen! Doch wer kommt als Täter in Frage? Mit Hilfe einer Überwachungskamera sollte der Dieb doch zu identifizieren sein – oder etwa nicht?",
+          "beschreibung" : "An Justus' Geburtstag muss der Erste Detektiv eine schwere Niederlage einstecken: Ausgerechnet seine Geburtstagstorte wurde über Nacht aus der Freiluftwerkstatt gestohlen! Doch wer kommt als Täter in Frage? Mit Hilfe einer Überwachungskamera sollte der Dieb doch zu identifizieren sein – oder etwa nicht?",
+          "veröffentlichungsdatum" : "2014-02-21",
+          "gesamtdauer" : 1099640,
+          "kapitel" : [
+            {
+              "titel" : "In Angst und Schrecken",
+              "start" : 0,
+              "end" : 367840
+            },
+            {
+              "titel" : "Gescanntes Areal",
+              "start" : 367840,
+              "end" : 528413
+            },
+            {
+              "titel" : "Des Rätsels Lösung",
+              "start" : 528413,
+              "end" : 1099640
+            }
+          ],
+          "sprechrollen" : [
+            {
+              "rolle" : "Erzähler",
+              "sprecher" : "Thomas Fritsch"
+            },
+            {
+              "rolle" : "Justus Jonas, Erster Detektiv",
+              "sprecher" : "Oliver Rohrbeck"
+            },
+            {
+              "rolle" : "Peter Shaw, Zweiter Detektiv",
+              "sprecher" : "Jens Wawrczeck"
+            },
+            {
+              "rolle" : "Bob Andrews, Recherchen und Archiv",
+              "sprecher" : "Andreas Fröhlich"
+            },
+            {
+              "rolle" : "Tante Mathilda",
+              "sprecher" : "Karin Lieneweg"
+            },
+            {
+              "rolle" : "Onkel Titus",
+              "sprecher" : "Andreas E. Beurmann",
+              "pseudonym" : "Hans Meinhardt"
+            },
+            {
+              "rolle" : "Ian Carew",
+              "sprecher" : "Sascha Draeger"
+            }
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/7/metadata.json",
+            "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/Das-Raetsel-der-Sieben/7/ffmetadata.txt"
+          },
+          "ids" : {
+            "dreimetadaten" : 217
+          }
+        }
+      ]
+    },
+    {
+      "titel" : "und der Zeitgeist",
+      "autor" : "Hendrik Buchna, Marco Sonnleitner, André Minninger, Ben Nevis, André Marx, Christoph Dittert, Kari Erlhoff",
+      "hörspielskriptautor" : "André Minninger",
+      "gesamtbeschreibung" : "Die drei ??? übernehmen jeden Fall. Da gibt's immer Überraschungen, ungeahnte Wendungen – und manchmal kommt alles wirklich ganz anders als gedacht! So wie in diesen kurzen Fällen, bei denen die Welt von Justus, Peter und Bob manchmal ganz schön auf den Kopf gestellt wird. Da ist vorwärts dann plötzlich doch rückwärts und vorn ist hinten und gleich nochmal von vorn …",
+      "beschreibung" : "Die drei ??? übernehmen jeden Fall. Da gibt's immer Überraschungen, ungeahnte Wendungen – und manchmal kommt alles wirklich ganz anders als gedacht! So wie in diesen kurzen Fällen, bei denen die Welt von Justus, Peter und Bob manchmal ganz schön auf den Kopf gestellt wird. Da ist vorwärts dann plötzlich doch rückwärts und vorn ist hinten und gleich nochmal von vorn …",
+      "metabeschreibung" : "Sechs verzwickte, experimentierfreudige, rätselhafte Kurzgeschichten aus Rocky Beach!",
+      "veröffentlichungsdatum" : "2016-03-04",
+      "gesamtdauer" : 8221640,
+      "sprechrollen" : [
+        {
+          "rolle" : "Erzähler",
+          "sprecher" : "Thomas Fritsch"
+        },
+        {
+          "rolle" : "Justus Jonas, Erster Detektiv",
+          "sprecher" : "Oliver Rohrbeck"
+        },
+        {
+          "rolle" : "Peter Shaw, Zweiter Detektiv",
+          "sprecher" : "Jens Wawrczeck"
+        },
+        {
+          "rolle" : "Bob Andrews, Recherchen und Archiv",
+          "sprecher" : "Andreas Fröhlich"
+        },
+        {
+          "rolle" : "Hüne",
+          "sprecher" : "Johannes Semm"
+        },
+        {
+          "rolle" : "Marvin Gray",
+          "sprecher" : "Horst Stark"
+        },
+        {
+          "rolle" : "Nancy McMonigal",
+          "sprecher" : "Gerlinde Dillge"
+        },
+        {
+          "rolle" : "Tom",
+          "sprecher" : "Wolfgang Rositzka"
+        },
+        {
+          "rolle" : "Rod",
+          "sprecher" : "Herbert Tennigkeit"
+        },
+        {
+          "rolle" : "Joe",
+          "sprecher" : "Olaf Reichmann"
+        },
+        {
+          "rolle" : "Ben",
+          "sprecher" : "Stephan Chrzescinski"
+        },
+        {
+          "rolle" : "Mariann",
+          "sprecher" : "Simone Ritscher"
+        },
+        {
+          "rolle" : "TV-Sprecher",
+          "sprecher" : "Holger Wemhoff"
+        },
+        {
+          "rolle" : "Malcolm Fever",
+          "sprecher" : "Tilo Schmitz"
+        },
+        {
+          "rolle" : "Lucy Hopkins",
+          "sprecher" : "Topsy Küppers"
+        },
+        {
+          "rolle" : "Onkel Titus",
+          "sprecher" : "Andreas E. Beurmann",
+          "pseudonym" : "Hans Meinhardt"
+        },
+        {
+          "rolle" : "Tante Mathilda",
+          "sprecher" : "Karin Lieneweg"
+        },
+        {
+          "rolle" : "Professor Selby",
+          "sprecher" : "Claus Wilcke"
+        },
+        {
+          "rolle" : "Oberpriesterin",
+          "sprecher" : "Elga Schütz"
+        },
+        {
+          "rolle" : "Kevin",
+          "sprecher" : "Patrick Mölleken"
+        },
+        {
+          "rolle" : "Mann in Kutte",
+          "sprecher" : "Rüdiger Hellmann"
+        },
+        {
+          "rolle" : "Radio",
+          "sprecher" : "Wilhelm Wieben"
+        },
+        {
+          "rolle" : "Mr. Tilton",
+          "sprecher" : "Christian Senger"
+        },
+        {
+          "rolle" : "Mr. Walsh",
+          "sprecher" : "Christian Rudolf"
+        },
+        {
+          "rolle" : "Weise Frau",
+          "sprecher" : "Dorothea Hagena"
+        },
+        {
+          "rolle" : "Kelly",
+          "sprecher" : "Juliane Szalay"
+        },
+        {
+          "rolle" : "Patrick",
+          "sprecher" : "Nicolas König"
+        },
+        {
+          "rolle" : "Samuel",
+          "sprecher" : "Johannes Semm"
+        },
+        {
+          "rolle" : "Kenneth",
+          "sprecher" : "Olaf Reichmann"
+        },
+        {
+          "rolle" : "Liz Zapata",
+          "sprecher" : "Merete Brettschneider"
+        },
+        {
+          "rolle" : "Skinny Norris",
+          "sprecher" : "Michael Harck"
+        }
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/metadata.json",
+        "cover" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/cover.png",
+        "dreifragezeichen" : "https://dreifragezeichen.de/produktwelt/details/und-der-zeitgeist-sechs-kurzgeschichten",
+        "appleMusic" : "https://music.apple.com/de/album/1149379770",
+        "spotify" : "https://open.spotify.com/intl-de/album/4lLOJQU6QBH5cxmERE77La",
+        "bookbeat" : "https://www.bookbeat.com/de/book/534852",
+        "amazonMusic" : "https://music.amazon.de/albums/B01NCAJJ7H",
+        "amazon" : "https://www.amazon.de/gp/product/B019JL70JO",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_urHZhGbeUjq",
+        "deezer" : "https://www.deezer.com/de/album/14720692"
+      },
+      "ids" : {
+        "dreimetadaten" : 234,
+        "appleMusic" : "1149379770",
+        "spotify" : "4lLOJQU6QBH5cxmERE77La",
+        "bookbeat" : "534852",
+        "amazonMusic" : "B01NCAJJ7H",
+        "amazon" : "B019JL70JO",
+        "youTubeMusic" : "MPREb_urHZhGbeUjq",
+        "deezer" : "14720692"
+      },
+      "medien" : [
+        {
+          "tracks" : [
+            {
+              "titel" : "Immer und immer wieder – Sieben",
+              "start" : 0,
+              "end" : 172213
+            },
+            {
+              "titel" : "Immer und immer wieder – Variationen",
+              "start" : 172213,
+              "end" : 590280
+            },
+            {
+              "titel" : "Immer und immer wieder – Elf",
+              "start" : 590280,
+              "end" : 950800
+            },
+            {
+              "titel" : "Der Raub der Zehntausend – Der absolute Hammer",
+              "start" : 950800,
+              "end" : 1144627
+            },
+            {
+              "titel" : "Der Raub der Zehntausend – Die Botschaft",
+              "start" : 1144627,
+              "end" : 1774093
+            },
+            {
+              "titel" : "Der Raub der Zehntausend – Ablenkungsmanöver",
+              "start" : 1774093,
+              "end" : 2149307
+            },
+            {
+              "titel" : "Der verschwundene Zeitgeist – Ein emotionales Gespräch",
+              "start" : 2149307,
+              "end" : 2794893
+            },
+            {
+              "titel" : "Der verschwundene Zeitgeist – Eindeutiges Foto",
+              "start" : 2794893,
+              "end" : 3652267
+            }
+          ],
+          "ripLog" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/rip_log1.txt"
+        },
+        {
+          "tracks" : [
+            {
+              "titel" : "Leaving Nineteen Sixty-four – Überraschung",
+              "start" : 0,
+              "end" : 477000
+            },
+            {
+              "titel" : "Leaving Nineteen Sixty-four – Ein schlechter Scherz",
+              "start" : 477000,
+              "end" : 991520
+            },
+            {
+              "titel" : "Leaving Nineteen Sixty-four – Ein Ass im Ärmel",
+              "start" : 991520,
+              "end" : 1748867
+            },
+            {
+              "titel" : "Rückwärtsgang – Jetzt",
+              "start" : 1748867,
+              "end" : 2312453
+            },
+            {
+              "titel" : "Rückwärtsgang – Die Aufzeichnung",
+              "start" : 2312453,
+              "end" : 2702853
+            },
+            {
+              "titel" : "Rückwärtsgang – Vorwärts",
+              "start" : 2702853,
+              "end" : 2885253
+            },
+            {
+              "titel" : "Zeit der Opfer, Zeit der Wunder – Die richtige Perspektive",
+              "start" : 2885253,
+              "end" : 3410080
+            },
+            {
+              "titel" : "Zeit der Opfer, Zeit der Wunder – Die nächste Stufe",
+              "start" : 3410080,
+              "end" : 3849720
+            },
+            {
+              "titel" : "Zeit der Opfer, Zeit der Wunder – Einfach galaktisch!",
+              "start" : 3849720,
+              "end" : 4298853
+            },
+            {
+              "titel" : "Zeit der Opfer, Zeit der Wunder – Objekt der Begierde",
+              "start" : 4298853,
+              "end" : 4569373
+            }
+          ],
+          "ripLog" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/rip_log2.txt"
+        }
+      ],
+      "teile" : [
+        {
+          "teilNummer" : 1,
+          "titel" : "Immer und immer wieder",
+          "autor" : "Hendrik Buchna",
+          "hörspielskriptautor" : "André Minninger",
+          "gesamtbeschreibung" : "Peter ist ratlos: In wenigen Minuten wird die Zentrale zerstört werden, und er kann nichts dagegen tun! Erst ein Tipp vom Ersten Detektiv bringt ihn auf die richtige Spur – oder doch nicht?",
+          "beschreibung" : "Peter ist ratlos: In wenigen Minuten wird die Zentrale zerstört werden, und er kann nichts dagegen tun! Erst ein Tipp vom Ersten Detektiv bringt ihn auf die richtige Spur – oder doch nicht?",
+          "veröffentlichungsdatum" : "2016-03-04",
+          "gesamtdauer" : 950800,
+          "kapitel" : [
+            {
+              "titel" : "Sieben",
+              "start" : 0,
+              "end" : 172213
+            },
+            {
+              "titel" : "Variationen",
+              "start" : 172213,
+              "end" : 590280
+            },
+            {
+              "titel" : "Elf",
+              "start" : 590280,
+              "end" : 950800
+            }
+          ],
+          "sprechrollen" : [
+            {
+              "rolle" : "Erzähler",
+              "sprecher" : "Thomas Fritsch"
+            },
+            {
+              "rolle" : "Justus Jonas, Erster Detektiv",
+              "sprecher" : "Oliver Rohrbeck"
+            },
+            {
+              "rolle" : "Peter Shaw, Zweiter Detektiv",
+              "sprecher" : "Jens Wawrczeck"
+            },
+            {
+              "rolle" : "Bob Andrews, Recherchen und Archiv",
+              "sprecher" : "Andreas Fröhlich"
+            },
+            {
+              "rolle" : "Hüne",
+              "sprecher" : "Johannes Semm"
+            },
+            {
+              "rolle" : "Marvin Gray",
+              "sprecher" : "Horst Stark"
+            }
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/1/metadata.json",
+            "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/1/ffmetadata.txt"
+          },
+          "ids" : {
+            "dreimetadaten" : 235
+          }
+        },
+        {
+          "teilNummer" : 2,
+          "titel" : "Der Raub der Zehntausend",
+          "autor" : "Marco Sonnleitner",
+          "hörspielskriptautor" : "André Minninger",
+          "gesamtbeschreibung" : "Beim Ausliefern einer Standuhr geraten die drei Detektive mitten in einen Kriminalfall, der äußerst explosiv enden könnte …",
+          "beschreibung" : "Beim Ausliefern einer Standuhr geraten die drei Detektive mitten in einen Kriminalfall, der äußerst explosiv enden könnte …",
+          "veröffentlichungsdatum" : "2016-03-04",
+          "gesamtdauer" : 1198507,
+          "kapitel" : [
+            {
+              "titel" : "Der absolute Hammer",
+              "start" : 0,
+              "end" : 193827
+            },
+            {
+              "titel" : "Die Botschaft",
+              "start" : 193827,
+              "end" : 823293
+            },
+            {
+              "titel" : "Ablenkungsmanöver",
+              "start" : 823293,
+              "end" : 1198507
+            }
+          ],
+          "sprechrollen" : [
+            {
+              "rolle" : "Erzähler",
+              "sprecher" : "Thomas Fritsch"
+            },
+            {
+              "rolle" : "Justus Jonas, Erster Detektiv",
+              "sprecher" : "Oliver Rohrbeck"
+            },
+            {
+              "rolle" : "Peter Shaw, Zweiter Detektiv",
+              "sprecher" : "Jens Wawrczeck"
+            },
+            {
+              "rolle" : "Bob Andrews, Recherchen und Archiv",
+              "sprecher" : "Andreas Fröhlich"
+            },
+            {
+              "rolle" : "Nancy McMonigal",
+              "sprecher" : "Gerlinde Dillge"
+            },
+            {
+              "rolle" : "Tom",
+              "sprecher" : "Wolfgang Rositzka"
+            },
+            {
+              "rolle" : "Rod",
+              "sprecher" : "Herbert Tennigkeit"
+            },
+            {
+              "rolle" : "Joe",
+              "sprecher" : "Olaf Reichmann"
+            },
+            {
+              "rolle" : "Ben",
+              "sprecher" : "Stephan Chrzescinski"
+            },
+            {
+              "rolle" : "Mariann",
+              "sprecher" : "Simone Ritscher"
+            },
+            {
+              "rolle" : "TV-Sprecher",
+              "sprecher" : "Holger Wemhoff"
+            }
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/2/metadata.json",
+            "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/2/ffmetadata.txt"
+          },
+          "ids" : {
+            "dreimetadaten" : 236
+          }
+        },
+        {
+          "teilNummer" : 3,
+          "titel" : "Der verschwundene Zeitgeist",
+          "autor" : "André Minninger",
+          "hörspielskriptautor" : "André Minninger",
+          "gesamtbeschreibung" : "Wer hat die fehlenden Manuskriptseiten von Malcolm Fever gestohlen? Als sich die drei Detektive des Falls annehmen, machen sie die Bekanntschaft mit einer höchst sonderbaren Dame …",
+          "beschreibung" : "Wer hat die fehlenden Manuskriptseiten von Malcolm Fever gestohlen? Als sich die drei Detektive des Falls annehmen, machen sie die Bekanntschaft mit einer höchst sonderbaren Dame …",
+          "veröffentlichungsdatum" : "2016-03-04",
+          "gesamtdauer" : 1502960,
+          "kapitel" : [
+            {
+              "titel" : "Ein emotionales Gespräch",
+              "start" : 0,
+              "end" : 645586
+            },
+            {
+              "titel" : "Eindeutiges Foto",
+              "start" : 645586,
+              "end" : 1502960
+            }
+          ],
+          "sprechrollen" : [
+            {
+              "rolle" : "Erzähler",
+              "sprecher" : "Thomas Fritsch"
+            },
+            {
+              "rolle" : "Justus Jonas, Erster Detektiv",
+              "sprecher" : "Oliver Rohrbeck"
+            },
+            {
+              "rolle" : "Peter Shaw, Zweiter Detektiv",
+              "sprecher" : "Jens Wawrczeck"
+            },
+            {
+              "rolle" : "Bob Andrews, Recherchen und Archiv",
+              "sprecher" : "Andreas Fröhlich"
+            },
+            {
+              "rolle" : "Malcolm Fever",
+              "sprecher" : "Tilo Schmitz"
+            },
+            {
+              "rolle" : "Lucy Hopkins",
+              "sprecher" : "Topsy Küppers"
+            }
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/3/metadata.json",
+            "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/3/ffmetadata.txt"
+          },
+          "ids" : {
+            "dreimetadaten" : 237
+          }
+        },
+        {
+          "teilNummer" : 4,
+          "titel" : "Leaving Nineteen Sixty-four",
+          "autor" : "Ben Nevis",
+          "hörspielskriptautor" : "André Minninger",
+          "gesamtbeschreibung" : "Professor Selby hat die drei ??? auf eine Reise durch die Zeit geschickt – nun müssen sie ein Rätsel lösen, um zurückzukehren.",
+          "beschreibung" : "Professor Selby hat die drei ??? auf eine Reise durch die Zeit geschickt – nun müssen sie ein Rätsel lösen, um zurückzukehren.",
+          "veröffentlichungsdatum" : "2016-03-04",
+          "gesamtdauer" : 1748867,
+          "kapitel" : [
+            {
+              "titel" : "Überraschung",
+              "start" : 0,
+              "end" : 477000
+            },
+            {
+              "titel" : "Ein schlechter Scherz",
+              "start" : 477000,
+              "end" : 991520
+            },
+            {
+              "titel" : "Ein Ass im Ärmel",
+              "start" : 991520,
+              "end" : 1748867
+            }
+          ],
+          "sprechrollen" : [
+            {
+              "rolle" : "Erzähler",
+              "sprecher" : "Thomas Fritsch"
+            },
+            {
+              "rolle" : "Justus Jonas, Erster Detektiv",
+              "sprecher" : "Oliver Rohrbeck"
+            },
+            {
+              "rolle" : "Peter Shaw, Zweiter Detektiv",
+              "sprecher" : "Jens Wawrczeck"
+            },
+            {
+              "rolle" : "Bob Andrews, Recherchen und Archiv",
+              "sprecher" : "Andreas Fröhlich"
+            },
+            {
+              "rolle" : "Onkel Titus",
+              "sprecher" : "Andreas E. Beurmann",
+              "pseudonym" : "Hans Meinhardt"
+            },
+            {
+              "rolle" : "Tante Mathilda",
+              "sprecher" : "Karin Lieneweg"
+            },
+            {
+              "rolle" : "Professor Selby",
+              "sprecher" : "Claus Wilcke"
+            },
+            {
+              "rolle" : "Oberpriesterin",
+              "sprecher" : "Elga Schütz"
+            },
+            {
+              "rolle" : "Kevin",
+              "sprecher" : "Patrick Mölleken"
+            },
+            {
+              "rolle" : "Mann in Kutte",
+              "sprecher" : "Rüdiger Hellmann"
+            },
+            {
+              "rolle" : "Radio",
+              "sprecher" : "Wilhelm Wieben"
+            }
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/4/metadata.json",
+            "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/4/ffmetadata.txt"
+          },
+          "ids" : {
+            "dreimetadaten" : 238
+          }
+        },
+        {
+          "teilNummer" : 5,
+          "titel" : "Rückwärtsgang",
+          "autor" : "André Marx",
+          "hörspielskriptautor" : "André Minninger",
+          "gesamtbeschreibung" : "In diesem rätselhaften Fall scheint die Zeit aus den Fugen geraten zu sein – mal geht es vorwärts, dann wieder zurück!",
+          "beschreibung" : "In diesem rätselhaften Fall scheint die Zeit aus den Fugen geraten zu sein – mal geht es vorwärts, dann wieder zurück!",
+          "veröffentlichungsdatum" : "2016-03-04",
+          "gesamtdauer" : 1136386,
+          "kapitel" : [
+            {
+              "titel" : "Jetzt",
+              "start" : 0,
+              "end" : 563586
+            },
+            {
+              "titel" : "Die Aufzeichnung",
+              "start" : 563586,
+              "end" : 953986
+            },
+            {
+              "titel" : "Vorwärts",
+              "start" : 953986,
+              "end" : 1136386
+            }
+          ],
+          "sprechrollen" : [
+            {
+              "rolle" : "Erzähler",
+              "sprecher" : "Thomas Fritsch"
+            },
+            {
+              "rolle" : "Justus Jonas, Erster Detektiv",
+              "sprecher" : "Oliver Rohrbeck"
+            },
+            {
+              "rolle" : "Peter Shaw, Zweiter Detektiv",
+              "sprecher" : "Jens Wawrczeck"
+            },
+            {
+              "rolle" : "Bob Andrews, Recherchen und Archiv",
+              "sprecher" : "Andreas Fröhlich"
+            },
+            {
+              "rolle" : "Mr. Tilton",
+              "sprecher" : "Christian Senger"
+            },
+            {
+              "rolle" : "Mr. Walsh",
+              "sprecher" : "Christian Rudolf"
+            }
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/5/metadata.json",
+            "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/5/ffmetadata.txt"
+          },
+          "ids" : {
+            "dreimetadaten" : 239
+          }
+        },
+        {
+          "teilNummer" : 6,
+          "titel" : "Zeit der Opfer, Zeit der Wunder",
+          "autor" : "Christoph Dittert, Kari Erlhoff",
+          "hörspielskriptautor" : "André Minninger",
+          "gesamtbeschreibung" : "Eigentlich geht es nur um ein Literaturprojekt für die Schule – doch mit den drei ??? wird auch das schnell zu einem Abenteuer …",
+          "beschreibung" : "Eigentlich geht es nur um ein Literaturprojekt für die Schule – doch mit den drei ??? wird auch das schnell zu einem Abenteuer …",
+          "veröffentlichungsdatum" : "2016-03-04",
+          "gesamtdauer" : 1684120,
+          "kapitel" : [
+            {
+              "titel" : "Die richtige Perspektive",
+              "start" : 0,
+              "end" : 524827
+            },
+            {
+              "titel" : "Die nächste Stufe",
+              "start" : 524827,
+              "end" : 964467
+            },
+            {
+              "titel" : "Einfach galaktisch!",
+              "start" : 964467,
+              "end" : 1413600
+            },
+            {
+              "titel" : "Objekt der Begierde",
+              "start" : 1413600,
+              "end" : 1684120
+            }
+          ],
+          "sprechrollen" : [
+            {
+              "rolle" : "Erzähler",
+              "sprecher" : "Thomas Fritsch"
+            },
+            {
+              "rolle" : "Justus Jonas, Erster Detektiv",
+              "sprecher" : "Oliver Rohrbeck"
+            },
+            {
+              "rolle" : "Peter Shaw, Zweiter Detektiv",
+              "sprecher" : "Jens Wawrczeck"
+            },
+            {
+              "rolle" : "Bob Andrews, Recherchen und Archiv",
+              "sprecher" : "Andreas Fröhlich"
+            },
+            {
+              "rolle" : "Weise Frau",
+              "sprecher" : "Dorothea Hagena"
+            },
+            {
+              "rolle" : "Kelly",
+              "sprecher" : "Juliane Szalay"
+            },
+            {
+              "rolle" : "Patrick",
+              "sprecher" : "Nicolas König"
+            },
+            {
+              "rolle" : "Samuel",
+              "sprecher" : "Johannes Semm"
+            },
+            {
+              "rolle" : "Kenneth",
+              "sprecher" : "Olaf Reichmann"
+            },
+            {
+              "rolle" : "Liz Zapata",
+              "sprecher" : "Merete Brettschneider"
+            },
+            {
+              "rolle" : "Skinny Norris",
+              "sprecher" : "Michael Harck"
+            }
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/6/metadata.json",
+            "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-Zeitgeist/6/ffmetadata.txt"
+          },
+          "ids" : {
+            "dreimetadaten" : 240
+          }
+        }
+      ]
+    },
+    {
+      "titel" : "und der schwarze Tag",
+      "autor" : "Ben Nevis, André Minninger, Christoph Dittert, Marco Sonnleitner, Kari Erlhoff, Hendrik Buchna",
+      "hörspielskriptautor" : "André Minninger",
+      "gesamtbeschreibung" : "Wenn die drei ??? ermitteln, ist das immer ein schwarzer Tag für Verbrecher. Und manchmal bringt das Detektivbüro sogar schneller als sonst Licht ins Dunkel: Sei es in einem stockfinsteren Verlies, auf der Jagd nach einem schwarzen Phantom oder in einem Dunkelrestaurant – Justus, Peter und Bob lösen jeden Fall.",
+      "beschreibung" : "Wenn die drei ??? ermitteln, ist das immer ein schwarzer Tag für Verbrecher. Und manchmal bringt das Detektivbüro sogar schneller als sonst Licht ins Dunkel: Sei es in einem stockfinsteren Verlies, auf der Jagd nach einem schwarzen Phantom oder in einem Dunkelrestaurant – Justus, Peter und Bob lösen jeden Fall.",
+      "metabeschreibung" : "Sechs verzwickte, experimentierfreudige, rätselhafte Kurzgeschichten aus Rocky Beach!",
+      "veröffentlichungsdatum" : "2018-10-28",
+      "gesamtdauer" : 11729187,
+      "sprechrollen" : [
+        {
+          "rolle" : "Erzähler",
+          "sprecher" : "Axel Milberg"
+        },
+        {
+          "rolle" : "Justus Jonas, Erster Detektiv",
+          "sprecher" : "Oliver Rohrbeck"
+        },
+        {
+          "rolle" : "Peter Shaw, Zweiter Detektiv",
+          "sprecher" : "Jens Wawrczeck"
+        },
+        {
+          "rolle" : "Bob Andrews, Recherchen und Archiv",
+          "sprecher" : "Andreas Fröhlich"
+        },
+        {
+          "rolle" : "Helen",
+          "sprecher" : "Dorette Hugo",
+          "pseudonym" : "Balancinha Blanc"
+        },
+        {
+          "rolle" : "Ellen",
+          "sprecher" : "Dorette Hugo"
+        },
+        {
+          "rolle" : "Vater",
+          "sprecher" : "Douglas Welbat"
+        },
+        {
+          "rolle" : "Tante Mathilda",
+          "sprecher" : "Karin Lieneweg"
+        },
+        {
+          "rolle" : "Skinny Norris",
+          "sprecher" : "Michael Harck"
+        },
+        {
+          "rolle" : "Marc Kingstone",
+          "sprecher" : "Rainer Brandt"
+        },
+        {
+          "rolle" : "Aaron Kingstone",
+          "sprecher" : "Tommi Piper"
+        },
+        {
+          "rolle" : "Sarah",
+          "sprecher" : "Christiane Leuchtmann"
+        },
+        {
+          "rolle" : "Albert",
+          "sprecher" : "Franzisko Löwe"
+        },
+        {
+          "rolle" : "Kelly Madigan",
+          "sprecher" : "Juliane Szalay"
+        },
+        {
+          "rolle" : "Mrs. McGee",
+          "sprecher" : "Alice Krimmel"
+        },
+        {
+          "rolle" : "Toby",
+          "sprecher" : "A. Stengelin"
+        },
+        {
+          "rolle" : "Mrs. Wells",
+          "sprecher" : "Heidi Schaffrath"
+        },
+        {
+          "rolle" : "Junge",
+          "sprecher" : "Linus Tauber"
+        },
+        {
+          "rolle" : "Mädchen",
+          "sprecher" : "Katinka Jaekel"
+        },
+        {
+          "rolle" : "Ericsson",
+          "sprecher" : "Detlef Tams"
+        },
+        {
+          "rolle" : "Sprecher/Moderator",
+          "sprecher" : "Oliver Böttcher"
+        },
+        {
+          "rolle" : "Tarek Shabana",
+          "sprecher" : "Werner Wilkening"
+        },
+        {
+          "rolle" : "Tasha",
+          "sprecher" : "Victoria Zöller"
+        },
+        {
+          "rolle" : "Domino Laverna",
+          "sprecher" : "Sabine Hahn"
+        },
+        {
+          "rolle" : "Biff Rodgers, Reporter",
+          "sprecher" : "Daniel Schütter"
+        },
+        {
+          "rolle" : "Lesley Dimple",
+          "sprecher" : "Ann Montenbruck"
+        },
+        {
+          "rolle" : "Zeus Zenon Johnson",
+          "sprecher" : "Michael Prelle"
+        },
+        {
+          "rolle" : "Computer",
+          "sprecher" : "Peter Bayer"
+        },
+        {
+          "rolle" : "Off-Sprecher",
+          "sprecher" : "Frank Roder"
+        },
+        {
+          "rolle" : "Sprecher",
+          "sprecher" : "Andreas Birnbaum"
+        },
+        {
+          "rolle" : "Blacky",
+          "sprecher" : "Heikedine Körting",
+          "pseudonym" : "Pamela Punti"
+        },
+        {
+          "rolle" : "Kassiererin",
+          "sprecher" : "Angela Stresemann"
+        },
+        {
+          "rolle" : "Inspektor Cotta",
+          "sprecher" : "Holger Mahlich"
+        }
+      ],
+      "links" : {
+        "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/metadata.json",
+        "cover" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/cover.png",
+        "appleMusic" : "https://music.apple.com/de/album/1436692770",
+        "spotify" : "https://open.spotify.com/intl-de/album/7ehMwTyKuIM4zdiltMxE4X",
+        "bookbeat" : "https://www.bookbeat.com/de/book/535117",
+        "amazonMusic" : "https://music.amazon.de/albums/B07HHCY9S7",
+        "amazon" : "https://www.amazon.de/gp/product/B07G1YS992",
+        "youTubeMusic" : "https://music.youtube.com/browse/MPREb_NlJYUFIIM9C",
+        "deezer" : "https://www.deezer.com/de/album/73551222"
+      },
+      "ids" : {
+        "dreimetadaten" : 260,
+        "appleMusic" : "1436692770",
+        "spotify" : "7ehMwTyKuIM4zdiltMxE4X",
+        "bookbeat" : "535117",
+        "amazonMusic" : "B07HHCY9S7",
+        "amazon" : "B07G1YS992",
+        "youTubeMusic" : "MPREb_NlJYUFIIM9C",
+        "deezer" : "73551222"
+      },
+      "medien" : [
+        {
+          "tracks" : [
+            {
+              "titel" : "Das schwarze Verlies – Gefesselt",
+              "start" : 0,
+              "end" : 826640
+            },
+            {
+              "titel" : "Das schwarze Verlies – Betäubt",
+              "start" : 826640,
+              "end" : 1316773
+            },
+            {
+              "titel" : "Das schwarze Verlies – Verrostet",
+              "start" : 1316773,
+              "end" : 2240920
+            },
+            {
+              "titel" : "Schwarze Seelen – Ohne Gewissen",
+              "start" : 2240920,
+              "end" : 2886080
+            },
+            {
+              "titel" : "Schwarze Seelen – Ohne Rücksicht",
+              "start" : 2886080,
+              "end" : 3590293
+            },
+            {
+              "titel" : "Schwarze Seelen – Ohne Reue",
+              "start" : 3590293,
+              "end" : 4096840
+            }
+          ],
+          "ripLog" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/rip_log1.txt"
+        },
+        {
+          "tracks" : [
+            {
+              "titel" : "Ein schwarzer Tag für Mr. Kingstone – Unverschämter Kerl",
+              "start" : 0,
+              "end" : 526840
+            },
+            {
+              "titel" : "Ein schwarzer Tag für Mr. Kingstone – Dunkelrestaurant",
+              "start" : 526840,
+              "end" : 1199413
+            },
+            {
+              "titel" : "Ein schwarzer Tag für Mr. Kingstone – Kontaktschranke",
+              "start" : 1199413,
+              "end" : 1889653
+            },
+            {
+              "titel" : "Wer hat Angst vorm Schwarzen Mann – Albtraum?",
+              "start" : 1889653,
+              "end" : 2490707
+            },
+            {
+              "titel" : "Wer hat Angst vorm Schwarzen Mann – Das Herz von Afrika",
+              "start" : 2490707,
+              "end" : 3139773
+            },
+            {
+              "titel" : "Wer hat Angst vorm Schwarzen Mann – Lasso-Künste",
+              "start" : 3139773,
+              "end" : 3657040
+            }
+          ],
+          "ripLog" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/rip_log2.txt"
+        },
+        {
+          "tracks" : [
+            {
+              "titel" : "Die schwarze PhantOma – Wasserdichte Alibis",
+              "start" : 0,
+              "end" : 828067
+            },
+            {
+              "titel" : "Die schwarze PhantOma – Kriminelle Abwege",
+              "start" : 828067,
+              "end" : 1373493
+            },
+            {
+              "titel" : "Die schwarze PhantOma – Tägliches Training",
+              "start" : 1373493,
+              "end" : 2256800
+            },
+            {
+              "titel" : "Das schwarze Nest – Grabesstille",
+              "start" : 2256800,
+              "end" : 2804213
+            },
+            {
+              "titel" : "Das schwarze Nest – Demokratische Abstimmung",
+              "start" : 2804213,
+              "end" : 3297213
+            },
+            {
+              "titel" : "Das schwarze Nest – Fall gelöst",
+              "start" : 3297213,
+              "end" : 3975307
+            }
+          ],
+          "ripLog" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/rip_log3.txt"
+        }
+      ],
+      "teile" : [
+        {
+          "teilNummer" : 1,
+          "titel" : "Das schwarze Verlies",
+          "autor" : "Ben Nevis",
+          "hörspielskriptautor" : "André Minninger",
+          "gesamtbeschreibung" : "Es ist dunkel. Mehr als dunkel. Schwarz. Peter erwacht und ist gefesselt! Wo befindet er sich? Ist alles nur ein Traum? Plötzlich vernimmt er ein seltsames Grunzen. Ein Kampfhund …? Dann kehren seine Erinnerungen zurück!",
+          "beschreibung" : "Es ist dunkel. Mehr als dunkel. Schwarz. Peter erwacht und ist gefesselt! Wo befindet er sich? Ist alles nur ein Traum? Plötzlich vernimmt er ein seltsames Grunzen. Ein Kampfhund …? Dann kehren seine Erinnerungen zurück!",
+          "veröffentlichungsdatum" : "2018-10-28",
+          "gesamtdauer" : 2240920,
+          "kapitel" : [
+            {
+              "titel" : "Gefesselt",
+              "start" : 0,
+              "end" : 826640
+            },
+            {
+              "titel" : "Betäubt",
+              "start" : 826640,
+              "end" : 1316773
+            },
+            {
+              "titel" : "Verrostet",
+              "start" : 1316773,
+              "end" : 2240920
+            }
+          ],
+          "sprechrollen" : [
+            {
+              "rolle" : "Justus Jonas, Erster Detektiv",
+              "sprecher" : "Oliver Rohrbeck"
+            },
+            {
+              "rolle" : "Peter Shaw, Zweiter Detektiv",
+              "sprecher" : "Jens Wawrczeck"
+            },
+            {
+              "rolle" : "Bob Andrews, Recherchen und Archiv",
+              "sprecher" : "Andreas Fröhlich"
+            }
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/1/metadata.json",
+            "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/1/ffmetadata.txt"
+          },
+          "ids" : {
+            "dreimetadaten" : 261
+          }
+        },
+        {
+          "teilNummer" : 2,
+          "titel" : "Schwarze Seelen",
+          "autor" : "André Minninger",
+          "hörspielskriptautor" : "André Minninger",
+          "gesamtbeschreibung" : "Die gegenseitigen Beschuldigungen der Zwillingsschwestern Helen und Ellen stellen die drei Detektive auf eine harte Zerreißprobe. Wird es ihnen dennoch gelingen, die wahre Täterin zu überführen?",
+          "beschreibung" : "Die gegenseitigen Beschuldigungen der Zwillingsschwestern Helen und Ellen stellen die drei Detektive auf eine harte Zerreißprobe. Wird es ihnen dennoch gelingen, die wahre Täterin zu überführen?",
+          "veröffentlichungsdatum" : "2018-10-28",
+          "gesamtdauer" : 1855920,
+          "kapitel" : [
+            {
+              "titel" : "Ohne Gewissen",
+              "start" : 0,
+              "end" : 645160
+            },
+            {
+              "titel" : "Ohne Rücksicht",
+              "start" : 645160,
+              "end" : 1349373
+            },
+            {
+              "titel" : "Ohne Reue",
+              "start" : 1349373,
+              "end" : 1855920
+            }
+          ],
+          "sprechrollen" : [
+            {
+              "rolle" : "Erzähler",
+              "sprecher" : "Axel Milberg"
+            },
+            {
+              "rolle" : "Justus Jonas, Erster Detektiv",
+              "sprecher" : "Oliver Rohrbeck"
+            },
+            {
+              "rolle" : "Peter Shaw, Zweiter Detektiv",
+              "sprecher" : "Jens Wawrczeck"
+            },
+            {
+              "rolle" : "Bob Andrews, Recherchen und Archiv",
+              "sprecher" : "Andreas Fröhlich"
+            },
+            {
+              "rolle" : "Helen",
+              "sprecher" : "Dorette Hugo",
+              "pseudonym" : "Balancinha Blanc"
+            },
+            {
+              "rolle" : "Ellen",
+              "sprecher" : "Dorette Hugo"
+            },
+            {
+              "rolle" : "Vater",
+              "sprecher" : "Douglas Welbat"
+            }
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/2/metadata.json",
+            "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/2/ffmetadata.txt"
+          },
+          "ids" : {
+            "dreimetadaten" : 262
+          }
+        },
+        {
+          "teilNummer" : 3,
+          "titel" : "Ein schwarzer Tag für Mr. Kingstone",
+          "autor" : "Christoph Dittert",
+          "hörspielskriptautor" : "André Minninger",
+          "gesamtbeschreibung" : "Ausgerechnet Skinny Norris beauftragt die drei Detektive mit einem neuen Fall: Wer erpresst Mr. Kingstone, den blinden Betreiber des Dunkelrestaurants in Rocky Beach? In totaler Finsternis ermitteln Justus, Peter und Bob, um dem skrupellosen Verbrecher auf die Schliche zu kommen. Doch wird ihre Falle auch zuschnappen?",
+          "beschreibung" : "Ausgerechnet Skinny Norris beauftragt die drei Detektive mit einem neuen Fall: Wer erpresst Mr. Kingstone, den blinden Betreiber des Dunkelrestaurants in Rocky Beach? In totaler Finsternis ermitteln Justus, Peter und Bob, um dem skrupellosen Verbrecher auf die Schliche zu kommen. Doch wird ihre Falle auch zuschnappen?",
+          "veröffentlichungsdatum" : "2018-10-28",
+          "gesamtdauer" : 1889653,
+          "kapitel" : [
+            {
+              "titel" : "Unverschämter Kerl",
+              "start" : 0,
+              "end" : 526840
+            },
+            {
+              "titel" : "Dunkelrestaurant",
+              "start" : 526840,
+              "end" : 1199413
+            },
+            {
+              "titel" : "Kontaktschranke",
+              "start" : 1199413,
+              "end" : 1889653
+            }
+          ],
+          "sprechrollen" : [
+            {
+              "rolle" : "Erzähler",
+              "sprecher" : "Axel Milberg"
+            },
+            {
+              "rolle" : "Justus Jonas, Erster Detektiv",
+              "sprecher" : "Oliver Rohrbeck"
+            },
+            {
+              "rolle" : "Peter Shaw, Zweiter Detektiv",
+              "sprecher" : "Jens Wawrczeck"
+            },
+            {
+              "rolle" : "Bob Andrews, Recherchen und Archiv",
+              "sprecher" : "Andreas Fröhlich"
+            },
+            {
+              "rolle" : "Tante Mathilda",
+              "sprecher" : "Karin Lieneweg"
+            },
+            {
+              "rolle" : "Skinny Norris",
+              "sprecher" : "Michael Harck"
+            },
+            {
+              "rolle" : "Marc Kingstone",
+              "sprecher" : "Rainer Brandt"
+            },
+            {
+              "rolle" : "Aaron Kingstone",
+              "sprecher" : "Tommi Piper"
+            },
+            {
+              "rolle" : "Sarah",
+              "sprecher" : "Christiane Leuchtmann"
+            },
+            {
+              "rolle" : "Albert",
+              "sprecher" : "Franzisko Löwe"
+            }
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/3/metadata.json",
+            "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/3/ffmetadata.txt"
+          },
+          "ids" : {
+            "dreimetadaten" : 263
+          }
+        },
+        {
+          "teilNummer" : 4,
+          "titel" : "Wer hat Angst vorm Schwarzen Mann",
+          "autor" : "Marco Sonnleitner",
+          "hörspielskriptautor" : "André Minninger",
+          "gesamtbeschreibung" : "In einem Kindergarten in Rocky Beach herrscht größte Besorgnis: Wurden die Kinder tatsächlich allesamt von einem unheimlichen \"Schwarzen Mann\" heimgesucht? Die Ermittlungen der drei ??? führen zum ominösen \"Herz von Afrika\" …",
+          "beschreibung" : "In einem Kindergarten in Rocky Beach herrscht größte Besorgnis: Wurden die Kinder tatsächlich allesamt von einem unheimlichen \"Schwarzen Mann\" heimgesucht? Die Ermittlungen der drei ??? führen zum ominösen \"Herz von Afrika\" …",
+          "veröffentlichungsdatum" : "2018-10-28",
+          "gesamtdauer" : 1767387,
+          "kapitel" : [
+            {
+              "titel" : "Albtraum?",
+              "start" : 0,
+              "end" : 601054
+            },
+            {
+              "titel" : "Das Herz von Afrika",
+              "start" : 601054,
+              "end" : 1250120
+            },
+            {
+              "titel" : "Lasso-Künste",
+              "start" : 1250120,
+              "end" : 1767387
+            }
+          ],
+          "sprechrollen" : [
+            {
+              "rolle" : "Erzähler",
+              "sprecher" : "Axel Milberg"
+            },
+            {
+              "rolle" : "Justus Jonas, Erster Detektiv",
+              "sprecher" : "Oliver Rohrbeck"
+            },
+            {
+              "rolle" : "Peter Shaw, Zweiter Detektiv",
+              "sprecher" : "Jens Wawrczeck"
+            },
+            {
+              "rolle" : "Bob Andrews, Recherchen und Archiv",
+              "sprecher" : "Andreas Fröhlich"
+            },
+            {
+              "rolle" : "Kelly Madigan",
+              "sprecher" : "Juliane Szalay"
+            },
+            {
+              "rolle" : "Mrs. McGee",
+              "sprecher" : "Alice Krimmel"
+            },
+            {
+              "rolle" : "Toby",
+              "sprecher" : "A. Stengelin"
+            },
+            {
+              "rolle" : "Mrs. Wells",
+              "sprecher" : "Heidi Schaffrath"
+            },
+            {
+              "rolle" : "Junge",
+              "sprecher" : "Linus Tauber"
+            },
+            {
+              "rolle" : "Mädchen",
+              "sprecher" : "Katinka Jaekel"
+            },
+            {
+              "rolle" : "Ericsson",
+              "sprecher" : "Detlef Tams"
+            },
+            {
+              "rolle" : "Sprecher/Moderator",
+              "sprecher" : "Oliver Böttcher"
+            },
+            {
+              "rolle" : "Tarek Shabana",
+              "sprecher" : "Werner Wilkening"
+            }
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/4/metadata.json",
+            "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/4/ffmetadata.txt"
+          },
+          "ids" : {
+            "dreimetadaten" : 264
+          }
+        },
+        {
+          "teilNummer" : 5,
+          "titel" : "Die schwarze PhantOma",
+          "autor" : "Kari Erlhoff",
+          "hörspielskriptautor" : "André Minninger",
+          "gesamtbeschreibung" : "Wer steckt hinter der unheimlichen Porschefahrerin, von der Justus beinahe überfahren wurde!? Auch Peter wird von ihr mit einem heftigen Fausthieb niedergestreckt! Wer ist die humpelnde Rentnerin, die als \"PhantOma\" in Rocky Beach ihr Unwesen treibt? An Verdächtigen mangelt es keineswegs …",
+          "beschreibung" : "Wer steckt hinter der unheimlichen Porschefahrerin, von der Justus beinahe überfahren wurde!? Auch Peter wird von ihr mit einem heftigen Fausthieb niedergestreckt! Wer ist die humpelnde Rentnerin, die als \"PhantOma\" in Rocky Beach ihr Unwesen treibt? An Verdächtigen mangelt es keineswegs …",
+          "veröffentlichungsdatum" : "2018-10-28",
+          "gesamtdauer" : 2256800,
+          "kapitel" : [
+            {
+              "titel" : "Wasserdichte Alibis",
+              "start" : 0,
+              "end" : 828067
+            },
+            {
+              "titel" : "Kriminelle Abwege",
+              "start" : 828067,
+              "end" : 1373493
+            },
+            {
+              "titel" : "Tägliches Training",
+              "start" : 1373493,
+              "end" : 2256800
+            }
+          ],
+          "sprechrollen" : [
+            {
+              "rolle" : "Erzähler",
+              "sprecher" : "Axel Milberg"
+            },
+            {
+              "rolle" : "Justus Jonas, Erster Detektiv",
+              "sprecher" : "Oliver Rohrbeck"
+            },
+            {
+              "rolle" : "Peter Shaw, Zweiter Detektiv",
+              "sprecher" : "Jens Wawrczeck"
+            },
+            {
+              "rolle" : "Bob Andrews, Recherchen und Archiv",
+              "sprecher" : "Andreas Fröhlich"
+            },
+            {
+              "rolle" : "Tasha",
+              "sprecher" : "Victoria Zöller"
+            },
+            {
+              "rolle" : "Domino Laverna",
+              "sprecher" : "Sabine Hahn"
+            },
+            {
+              "rolle" : "Biff Rodgers, Reporter",
+              "sprecher" : "Daniel Schütter"
+            },
+            {
+              "rolle" : "Lesley Dimple",
+              "sprecher" : "Ann Montenbruck"
+            },
+            {
+              "rolle" : "Zeus Zenon Johnson",
+              "sprecher" : "Michael Prelle"
+            },
+            {
+              "rolle" : "Computer",
+              "sprecher" : "Peter Bayer"
+            },
+            {
+              "rolle" : "Off-Sprecher",
+              "sprecher" : "Frank Roder"
+            },
+            {
+              "rolle" : "Sprecher",
+              "sprecher" : "Andreas Birnbaum"
+            }
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/5/metadata.json",
+            "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/5/ffmetadata.txt"
+          },
+          "ids" : {
+            "dreimetadaten" : 265
+          }
+        },
+        {
+          "teilNummer" : 6,
+          "titel" : "Das schwarze Nest",
+          "autor" : "Hendrik Buchna",
+          "hörspielskriptautor" : "André Minninger",
+          "gesamtbeschreibung" : "Das Telefon klingelt nicht in der Zentrale der drei Detektive. Doch Justus hört es ganz deutlich. Leidet er unter Wahnvorstellungen?\nUnd auch Peter wird von argen Problemen geplagt: Er muss unbedingt das große Sackhüpfturnier gewinnen!\nBob wird endlich aus dem Krankenhaus entlassen und wundert sich über gar nichts mehr …",
+          "beschreibung" : "Das Telefon klingelt nicht in der Zentrale der drei Detektive. Doch Justus hört es ganz deutlich. Leidet er unter Wahnvorstellungen?\nUnd auch Peter wird von argen Problemen geplagt: Er muss unbedingt das große Sackhüpfturnier gewinnen!\nBob wird endlich aus dem Krankenhaus entlassen und wundert sich über gar nichts mehr …",
+          "veröffentlichungsdatum" : "2018-10-28",
+          "gesamtdauer" : 1718507,
+          "kapitel" : [
+            {
+              "titel" : "Grabesstille",
+              "start" : 0,
+              "end" : 547413
+            },
+            {
+              "titel" : "Demokratische Abstimmung",
+              "start" : 547413,
+              "end" : 1040413
+            },
+            {
+              "titel" : "Fall gelöst",
+              "start" : 1040413,
+              "end" : 1718507
+            }
+          ],
+          "sprechrollen" : [
+            {
+              "rolle" : "Erzähler",
+              "sprecher" : "Axel Milberg"
+            },
+            {
+              "rolle" : "Justus Jonas, Erster Detektiv",
+              "sprecher" : "Oliver Rohrbeck"
+            },
+            {
+              "rolle" : "Peter Shaw, Zweiter Detektiv",
+              "sprecher" : "Jens Wawrczeck"
+            },
+            {
+              "rolle" : "Bob Andrews, Recherchen und Archiv",
+              "sprecher" : "Andreas Fröhlich"
+            },
+            {
+              "rolle" : "Blacky",
+              "sprecher" : "Heikedine Körting",
+              "pseudonym" : "Pamela Punti"
+            },
+            {
+              "rolle" : "Kassiererin",
+              "sprecher" : "Angela Stresemann"
+            },
+            {
+              "rolle" : "Inspektor Cotta",
+              "sprecher" : "Holger Mahlich"
+            }
+          ],
+          "links" : {
+            "json" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/6/metadata.json",
+            "ffmetadata" : "http://dreimetadaten.de/data/Kurzgeschichten/und-der-schwarze-Tag/6/ffmetadata.txt"
+          },
+          "ids" : {
+            "dreimetadaten" : 266
+          }
+        }
+      ]
+    }
+  ]
+}
