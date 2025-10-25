@@ -45,7 +45,8 @@ class TextGenerator {
 
         $text = str_replace(array_keys($platzhalter), array_values($platzhalter), $template);
         $link = $this->config['base_url'] . 'folge' . ($folge['ids']['dreimetadaten'] ?? '');
+        $hashtags = implode(' ', $this->config['hashtags'] ?? []);
 
-        return $text . "\n\n🔗 " . $link;
+        return $text . "\n\n🔗 " . $link . "\n\n" . $hashtags;
     }
 }
