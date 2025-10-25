@@ -48,8 +48,15 @@ class EpisodeSelector
     public function logEpisode(int $id): void
     {
         $log = $this->getLog();
-        $log[date('Y-m-d')] = $id;
-        file_put_contents($this->logFile, json_encode($log, JSON_PRETTY_PRINT));
+        $heute = date('Y-m-d');
+        // Nur loggen, wenn noch kein Eintrag für heute existiert
+        if (!isset($log[$heute])) {
+            $log[$heute] = $id;
+            file_put_contents($this->logFile, json_encode($log, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
+            Logger::log("Folge $id wurde für $heute ins Log geschrieben.");
+        } else {
+            Logger::log("Für $heute existiert bereits ein Logeintrag: Folge {$log[$heute]}.");
+        }
     }
 
     private function loadEpisodes(): array
