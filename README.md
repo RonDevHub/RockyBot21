@@ -1,7 +1,7 @@
-# RockyBot21 - Der drei ![Fragezeichen-Logo](https://sig.rondev.de/logos/dreifragezeichen.svg) Bot
+# RockyBotICE - Der drei ![Fragezeichen-Logo](https://sig.rondev.de/logos/dreifragezeichen.svg) Bot
 <div align="center">
 
-![Created](https://mini-badges.rondevhub.de/forgejo/RonDevHub/RockyBot21/created-at/*/*/de) ![GitHub Repo stars](https://mini-badges.rondevhub.de/forgejo/RonDevHub/RockyBot21/lastcommit/*/*/de) ![GitHub Repo stars](https://mini-badges.rondevhub.de/github/RonDevHub/RockyBot21/stars/*/*/de) ![GitHub Repo stars](https://mini-badges.rondevhub.de/github/RonDevHub/RockyBot21/issues/*/*/de) ![GitHub Repo language](https://mini-badges.rondevhub.de/forgejo/RonDevHub/RockyBot21/language/*/*/de) ![GitHub Repo license](https://mini-badges.rondevhub.de/github/RonDevHub/RockyBot21/license/*/*/de) ![GitHub Repo release](https://mini-badges.rondevhub.de/github/RonDevHub/RockyBot21/release/*/*/de) ![GitHub Repo release](https://mini-badges.rondevhub.de/github/RonDevHub/RockyBot21/forks/*/*/de) ![GitHub Repo downlods](https://mini-badges.rondevhub.de/github/RonDevHub/RockyBot21/downloads/*/*/de) ![GitHub Repo stars](https://mini-badges.rondevhub.de/github/RonDevHub/RockyBot21/watchers)
+![Created](https://mini-badges.rondevhub.de/forgejo/RonDevHub/RockyBotICE/created-at/*/*/de) ![GitHub Repo stars](https://mini-badges.rondevhub.de/forgejo/RonDevHub/RockyBotICE/lastcommit/*/*/de) ![GitHub Repo stars](https://mini-badges.rondevhub.de/github/RonDevHub/RockyBotICE/stars/*/*/de) ![GitHub Repo stars](https://mini-badges.rondevhub.de/github/RonDevHub/RockyBotICE/issues/*/*/de) ![GitHub Repo language](https://mini-badges.rondevhub.de/forgejo/RonDevHub/RockyBotICE/language/*/*/de) ![GitHub Repo license](https://mini-badges.rondevhub.de/github/RonDevHub/RockyBotICE/license/*/*/de) ![GitHub Repo release](https://mini-badges.rondevhub.de/github/RonDevHub/RockyBotICE/release/*/*/de) ![GitHub Repo release](https://mini-badges.rondevhub.de/github/RonDevHub/RockyBotICE/forks/*/*/de) ![GitHub Repo downlods](https://mini-badges.rondevhub.de/github/RonDevHub/RockyBotICE/downloads/*/*/de) ![GitHub Repo stars](https://mini-badges.rondevhub.de/github/RonDevHub/RockyBotICE/watchers)
 
 [![Buy me a coffee](https://mini-badges.rondevhub.de/icon/cuptogo/Buy_me_a_Coffee-c1d82f-222/social "Buy me a coffee")](https://www.buymeacoffee.com/RonDev)
 [![Buy me a coffee](https://mini-badges.rondevhub.de/icon/cuptogo/ko--fi.com-c1d82f-222/social "Buy me a coffee")](https://ko-fi.com/U6U31EV2VS)
@@ -10,13 +10,13 @@
 </div>
 
 ---
-> „Die drei ??? übernehmen jeden Fall – und RockyBot21 übernimmt die tägliche Empfehlung.“
+> „Die drei ??? übernehmen jeden Fall – und RockyBotICE übernimmt die tägliche Empfehlung.“
 ---
 🎙️ Ein liebevoll gebauter Mastodon-Bot, der täglich eine zufällige Folge der drei ??? postet – inklusive Cover, Textbaustein und Streaming-Links.
 
 ---
 
-## 🔍 Was macht RockyBot21?
+## 🔍 Was macht RockyBotICE?
 
 - Wählt täglich eine zufällige Folge aus allen regulären, Spezial- und Kurzgeschichten
 - Vermeidet Wiederholungen (mindestens 100 Tage Abstand)
@@ -27,9 +27,9 @@
 
 ## 🛠️ Wie funktioniert das?
 
-RockyBot21 basiert auf PHP und nutzt die JSON-Daten von [dreimetadaten.de](https://dreimetadaten.de). Die Architektur ist modular aufgebaut:
+RockyBotICE basiert auf PHP und nutzt die JSON-Daten von [dreimetadaten.de](https://dreimetadaten.de). Die Architektur ist modular aufgebaut:
 ```
-RockyBot21/ 
+RockyBotICE/ 
 ├── config/ # Konfiguration inkl. API-Token und Testmodus
 ├── data/ # JSON-Daten, Logs, Debug-Ausgaben 
 ├── templates/ # Textbausteine mit Platzhaltern 
@@ -71,9 +71,9 @@ RockyBot21/
 ---
 
 ## Verwendung
-Bei Verwendung genügt als Namensnennung "RockyBot21".
+Bei Verwendung genügt als Namensnennung "RockyBotICE".
 
 Sämtlicher Quellcode steht unter der [MIT License](https://opensource.org/license/MIT).
 
 ## 📣 Kontakt
-Fragen, Ideen oder Nerdliebe? Melde dich auf [**Matrix Chat**](https://matrix.to/#/#RockyBot21:matrix.s3cr.net), [**Github Issues**](https://github.com/RonDevHub/RockyBot21/issues), <a rel="me" href="https://mastodon.social/@RockyBot21">@RockyBot21</a> *(kein Support)*
+Fragen, Ideen oder Nerdliebe? Melde dich auf [**Matrix Chat**](https://matrix.to/#/#RockyBotICE:matrix.s3cr.net), [**Github Issues**](https://github.com/RonDevHub/RockyBotICE/issues), <a rel="me" href="https://mastodon.social/@RockyBotICE">@RockyBotICE</a> *(kein Support)*
