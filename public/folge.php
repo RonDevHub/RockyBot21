@@ -22,6 +22,8 @@ $map = [
 
 $folge = null;
 
+$typ = 'Unbekannt';
+
 foreach ($map as $file => $key) {
     $path = $config['data_path'] . $file;
     $json = json_decode(file_get_contents($path), true);
@@ -30,6 +32,7 @@ foreach ($map as $file => $key) {
     foreach ($list as $f) {
         if (($f['ids']['dreimetadaten'] ?? null) == $id) {
             $folge = $f;
+            $typ = ucfirst($key); // ergibt z. B. "Serie", "Spezial", "Kurzgeschichten"
             break 2;
         }
     }
@@ -42,7 +45,6 @@ if (!$folge) {
 
 $titel = htmlspecialchars($folge['titel'] ?? 'Unbekannt');
 $nummer = $folge['nummer'] ?? '-';
-$typ = $folge['typ'] ?? 'Unbekannt';
 $cover = $folge['links']['cover'] ?? null;
 $beschreibung = $folge['beschreibung'] ?? '';
 $links = $folge['links'] ?? [];
