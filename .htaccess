@@ -10,6 +10,9 @@ RewriteRule ^folge([0-9]+)$ public/folge.php?id=$1 [L]
 # Optional: /debug → /data/debug.log anzeigen (nur wenn gewünscht)
 RewriteRule ^debug$ data/debug.log [L]
 
+# Cronjob-Shortlink: /cron123 → /cron.php?secret=123
+RewriteRule ^cron([0-9]+)$ cron.php?secret=$1 [L]
+
 # Sicherheit: .htaccess selbst schützen
 <Files .htaccess>
   Require all denied
