@@ -21,8 +21,8 @@ $map = [
 ];
 
 $folge = null;
-
 $typ = 'Unbekannt';
+$typBadgeColor = '#888';
 
 foreach ($map as $file => $key) {
     $path = $config['data_path'] . $file;
@@ -32,7 +32,24 @@ foreach ($map as $file => $key) {
     foreach ($list as $f) {
         if (($f['ids']['dreimetadaten'] ?? null) == $id) {
             $folge = $f;
-            $typ = ucfirst($key); // ergibt z.B. "Serie", "Spezial", "Kurzgeschichten"
+
+            // Typ bestimmen
+            $typMap = [
+                'serie' => 'Serie',
+                'spezial' => 'Spezial',
+                'kurzgeschichten' => 'Kurzgeschichte'
+            ];
+            $typ = $typMap[$key] ?? 'Unbekannt';
+
+            // Farbe für Badge setzen
+            $typColor = [
+                'Serie' => '#1DB954',           // grün
+                'Spezial' => '#FF9900',         // orange
+                'Kurzgeschichte' => '#009ee0',  // blau
+                'Unbekannt' => '#888'
+            ];
+            $typBadgeColor = $typColor[$typ] ?? '#888';
+
             break 2;
         }
     }
@@ -151,6 +168,17 @@ $icons = [
             color: #aaa;
             text-decoration: underline;
         }
+        .badge {
+            display: inline-block;
+            padding: 0.3em 0.7em;
+            border-radius: 999px;
+            font-size: 0.75em;
+            font-weight: bold;
+            color: #fff;
+            margin-bottom: 1em;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
         @media (max-width: 600px) {
             .card {
                 padding: 1.2em;
@@ -167,7 +195,11 @@ $icons = [
 <body>
     <div class="card">
         <h1><?php echo $titel; ?></h1>
-        <p class="meta">Folge <?php echo $nummer; ?> · <?php echo $typ; ?></p>
+        <p class="meta">
+            Folge <?php echo $nummer; ?> · <span class="badge" style="background-color: <?php echo $typBadgeColor; ?>;">
+                <?php echo $typ; ?>
+            </span>
+        </p>
 
         <?php if ($cover): ?>
             <img src="<?php echo htmlspecialchars($cover); ?>" alt="Cover" class="cover">
