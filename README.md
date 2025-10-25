@@ -58,7 +58,7 @@ RockyBotICE/
 3. JSON-Dateien in `data/` ablegen oder regelmäßig aktualisieren
 4. Cronjob einrichten:
    ```bash
-   curl "https://deinserver.de/dreibot/cronDEIN_SECRET"
+   curl "https://deinserver.de/dreibot/cron.php?secret=DEIN_SECRET"
    ```
 
 ---
