@@ -7,6 +7,7 @@ return [
     // Bot Einstellungen
     'botname' => 'RockyBot21',
     'base_url' => 'https://deinedomain.de/',
+    'hashtags' => ['#Hashtag1', '#Hashtag2'], // oder [], für keine Hashtags
 
     // Testmodus: true = kein echter Toot, nur Log
     'testmode' => true,
