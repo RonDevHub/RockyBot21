@@ -32,7 +32,7 @@ foreach ($map as $file => $key) {
     foreach ($list as $f) {
         if (($f['ids']['dreimetadaten'] ?? null) == $id) {
             $folge = $f;
-            $typ = ucfirst($key); // ergibt z. B. "Serie", "Spezial", "Kurzgeschichten"
+            $typ = ucfirst($key); // ergibt z.B. "Serie", "Spezial", "Kurzgeschichten"
             break 2;
         }
     }
