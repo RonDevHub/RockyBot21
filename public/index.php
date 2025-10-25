@@ -66,8 +66,8 @@
 </head>
 <body>
   <div class="card">
-    <h1>RockyBot21 - Der drei 
-      <svg xmlns="http://www.w3.org/2000/svg" height="1.2em" viewBox="0 0 119.24 59.599"><text xml:space="preserve" x="104.119" y="76.886" fill="#2a7fff" fill-opacity=".917" stroke="#000" font-family="'DejaVu Math TeX Gyre'" font-size="81.64" text-anchor="middle" transform="translate(-43.924 -18.384)"><tspan x="104.119" y="76.886" fill-opacity=".918" font-family="'SF Pro Display'" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal"><tspan fill="#e2001a">?</tspan><tspan fill="#009ee0">?</tspan><tspan fill="#fff">?</tspan></tspan></text></svg> Bot
+    <h1>
+      RockyBot21 - Der drei <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 119.24 59.599"><text xml:space="preserve" x="104.119" y="76.886" fill="#2a7fff" fill-opacity=".917" stroke="#000" font-family="'DejaVu Math TeX Gyre'" font-size="81.64" text-anchor="middle" transform="translate(-43.924 -18.384)"><tspan x="104.119" y="76.886" fill-opacity=".918" font-family="'SF Pro Display'" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal"><tspan fill="#e2001a">?</tspan><tspan fill="#009ee0">?</tspan><tspan fill="#fff">?</tspan></tspan></text></svg> Bot
     </h1>
 
     <p>
