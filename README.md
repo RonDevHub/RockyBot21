@@ -12,7 +12,7 @@
 ---
 > „Die drei ??? übernehmen jeden Fall – und RockyBotICE übernimmt die tägliche Empfehlung.“
 ---
-🎙️ Ein liebevoll gebauter Mastodon-Bot, der täglich eine zufällige Folge der drei ??? postet – inklusive Cover, Textbaustein und Streaming-Links.
+🎙️ Ein liebevoll gebauter Mastodon-Bot, der täglich eine zufällige Folge der drei ??? auf <a rel="me" href="https://mastodon.social/@RockyBotICE">@RockyBotICE</a> postet – inklusive Cover, Titel, Anbieter-Links und einem passenden Text von Justus, Peter oder Bob.
 
 ---
 
